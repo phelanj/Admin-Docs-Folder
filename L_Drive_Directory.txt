@@ -1,0 +1,2669 @@
+ Volume in drive L is Shared
+ Volume Serial Number is 323D-33FC
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder
+
+02/16/2016  08:06 AM    <DIR>          .
+02/16/2016  08:06 AM    <DIR>          ..
+02/12/2016  11:41 AM    <DIR>          2010acrlapplication
+02/12/2016  11:38 AM    <DIR>          2010_2011 Archived Organization Charts
+02/12/2016  11:39 AM    <DIR>          2010_2011 New Organizaton Charts
+02/12/2016  11:43 AM    <DIR>          2011-2012 Archived Org Charts
+01/04/2012  12:42 PM            41,472 2012_selected library phone list1.xls
+02/12/2016  11:49 AM    <DIR>          2013Archived Org Charts
+06/11/2013  12:16 PM            20,564 2013_Timeline_for_P&T.docx
+02/11/2016  01:41 PM    <DIR>          2014-15Archived OrgCharts
+02/11/2016  01:41 PM    <DIR>          2014ArchivedOrgCharts
+02/11/2016  01:41 PM    <DIR>          2015-16ArchivedOrgCharts
+02/11/2016  01:41 PM    <DIR>          2015ARCHIVEDORGCHARTS
+02/11/2016  01:41 PM    <DIR>          2016Archived_1- Org Charts
+09/07/2007  02:50 PM            32,256 2F94C100
+05/07/2010  07:49 AM            72,288 5-2010_Reference service without the desk.pdf
+08/01/2006  10:04 AM            43,008 644CA000
+08/01/2007  03:14 PM            43,008 729CA000
+07/17/2006  09:44 AM            38,912 ACCREDITATION PART A.doc
+07/17/2006  09:44 AM           113,152 ACCREDITATION PART B .doc
+05/14/2009  03:43 PM            27,136 ACRONYMS.doc
+10/02/2006  11:03 AM                21 Acronyms.html.LCK
+02/11/2016  01:41 PM    <DIR>          Active OrgCharts
+02/11/2016  01:42 PM    <DIR>          annual_reports
+02/11/2016  01:42 PM    <DIR>          Bylawscomm
+02/11/2016  01:42 PM    <DIR>          cabinet
+02/11/2016  01:42 PM    <DIR>          Classified_staff
+02/11/2016  01:42 PM    <DIR>          committees_groups
+05/18/2010  02:08 PM           163,305 communities_of_practice_5-2010.pdf
+02/11/2016  01:42 PM    <DIR>          council
+07/03/2013  09:39 AM            18,750 councilcharge.docx
+02/11/2016  01:42 PM    <DIR>          directs
+09/08/2008  01:18 PM            12,761 directs_2008_07_14.docx
+02/26/2008  03:32 PM         4,353,641 emergency_safety_plan_021508.pdf
+04/19/2007  12:38 PM            66,399 emergency_safety_plan_071205.pdf
+04/19/2007  12:38 PM        30,065,306 emergency_safety_plan_appendix_091305.pdf
+05/16/2012  05:48 PM            15,781 env.inc
+02/11/2016  01:42 PM    <DIR>          ESC
+02/11/2016  01:42 PM    <DIR>          FlexSched_Templates
+02/11/2016  01:43 PM    <DIR>          forms_templates
+08/28/2013  01:26 PM                31 fred.txt
+02/11/2016  01:43 PM    <DIR>          HumanResources
+05/29/2012  08:17 AM             2,331 index.php
+07/28/2007  03:14 PM             1,399 index.php.bak
+05/29/2012  08:17 AM             2,331 index.php.bak1
+02/11/2016  01:43 PM    <DIR>          LibraryPhoneNumbers
+02/11/2016  01:43 PM    <DIR>          Libs_publications
+02/16/2016  08:06 AM                 0 L_Drive_Directory.txt
+02/11/2016  01:43 PM    <DIR>          policies_procedures_guidelines
+02/11/2016  01:43 PM    <DIR>          P_&_T
+02/12/2016  11:25 AM    <DIR>          SearchCommittee
+11/13/2013  04:22 PM            42,106 SearchCommitteeMealReimbursementTemplate3.docx
+08/16/2013  09:24 AM               310 Shortcut to admin_docs.lnk
+02/11/2016  01:43 PM    <DIR>          space_planning
+07/17/2006  09:44 AM            54,272 Staff meeting input 2-10-05.doc
+02/11/2016  01:43 PM    <DIR>          strategic_plans
+02/11/2016  01:43 PM    <DIR>          student_employment
+08/10/2006  12:51 PM           275,456 student_empl_handbook2.doc
+02/12/2016  11:26 AM    <DIR>          TempJobPostings
+02/11/2016  01:43 PM    <DIR>          Training_content_for_the_staff_website
+02/11/2016  01:43 PM    <DIR>          Travel
+02/22/2013  03:03 PM           109,104 update - Feb 22.pdf
+02/11/2016  01:44 PM    <DIR>          updates
+02/12/2016  11:34 AM    <DIR>          _notes
+              27 File(s)     35,615,100 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\2010acrlapplication
+
+02/12/2016  11:41 AM    <DIR>          .
+02/12/2016  11:41 AM    <DIR>          ..
+12/01/2010  04:10 PM           333,009 UNLV_Appendix_I.pdf
+11/30/2010  03:10 PM            55,536 UNLV_Appendix_II.pdf
+11/30/2010  03:05 PM         1,189,594 UNLV_Appendix_III.pdf
+11/30/2010  03:03 PM           516,044 UNLV_Appendix_IV.pdf
+12/02/2010  11:17 AM         1,280,812 UNLV_Application.pdf
+               5 File(s)      3,374,995 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\2010_2011 Archived Organization Charts
+
+02/12/2016  11:38 AM    <DIR>          .
+02/12/2016  11:38 AM    <DIR>          ..
+12/22/2010  01:21 PM            16,686 1External Relations_9-1-10.pdf
+12/22/2010  01:20 PM            23,576 1Library Administration_9-1-10.pdf
+12/22/2010  01:22 PM            21,174 1Special Collections Divison_9-1-10.pdf
+02/12/2016  11:37 AM                 0 2010_2011
+08/31/2010  02:40 PM            24,077 ADS_BMS_MOR_9-1-10.pdf
+12/22/2010  01:18 PM            24,041 ADS_BMS_MOR_T Hanken_10-4-10.pdf
+10/04/2010  12:21 PM            58,474 Entire Library_10-4-10.pdf
+01/24/2011  10:40 AM            16,645 External Relations_2-2-11.pdf
+08/31/2010  02:41 PM            16,686 External Relations_9-1-10.pdf
+12/21/2010  02:34 PM            58,428 Final_Entire Library_1-3-11.pdf
+11/10/2010  02:22 PM            46,030 Final_Entire Library_11-10-10.pdf
+12/06/2010  03:10 PM            58,477 Final_Entire Library_12-6-10.pdf
+12/22/2010  01:19 PM            58,412 Final_Entire Library_12-8-10.pdf
+01/24/2011  10:43 AM            58,409 Final_Entire Library_2-2-11.pdf
+03/14/2011  09:44 AM            58,436 Final_Entire Library_3-14-11.pdf
+08/31/2010  02:42 PM            23,576 Library Administration_9-1-10.pdf
+11/10/2010  11:27 AM            24,766 Library Technologies Division_1-3-11.pdf
+10/04/2010  12:22 PM            24,788 Library Technologies Division_10-4-10.pdf
+11/03/2010  03:10 PM            21,780 Library Technologies Division_11-3-10.pdf
+12/22/2010  01:19 PM            24,680 Library Technologies Division_12-8-10.pdf
+03/14/2011  09:44 AM            24,675 Library Technologies Division_3-14-11.pdf
+08/31/2010  02:43 PM            24,748 Library Technologies Division_9-1-10.pdf
+11/19/2009  10:25 AM           104,960 orgchart_administration.ppt
+03/13/2009  12:50 PM           102,912 orgchart_external_relations.ppt
+03/26/2010  01:10 PM           107,008 orgchart_overview.ppt
+12/14/2009  10:20 AM           115,200 orgchart_research_education_no branch.ppt
+11/19/2009  10:27 AM           112,128 orgchart_research_education_with_branch.ppt
+11/19/2009  10:27 AM           104,448 orgchart_special_collections.ppt
+11/19/2009  09:47 AM           114,176 orgchart_technical_services.ppt
+11/19/2009  10:25 AM           108,032 orgchart_technologies.ppt
+12/14/2009  10:20 AM           110,080 orgchart_user_services.ppt
+10/04/2010  12:23 PM            26,249 Overview University Libraries_10-4-10.pdf
+08/31/2010  02:45 PM            26,303 Overview University Libraries_9-1-10.pdf
+10/04/2010  12:23 PM            31,133 Research Education Division_10-4-10.pdf
+11/10/2010  11:13 AM            26,673 Research Education Division_11-10-10.pdf
+11/30/2010  10:33 AM            31,152 Research Education Division_12-1-10.pdf
+03/14/2011  09:45 AM            31,152 Research Education Division_3-14-11.pdf
+08/31/2010  02:43 PM            31,433 Research Education Division_9-1-10.pdf
+08/31/2010  02:44 PM            21,174 Special Collections Divison_9-1-10.pdf
+12/21/2010  02:31 PM            30,410 Technical Services_ADS_Division_1-3-11.pdf
+09/08/2010  03:00 PM            58,417 University Libraries_9-7-10.pdf
+              41 File(s)      2,001,604 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\2010_2011 New Organizaton Charts
+
+02/12/2016  11:39 AM    <DIR>          .
+02/12/2016  11:39 AM    <DIR>          ..
+03/14/2011  09:44 AM            16,645 External Relations_3-14-11.pdf
+06/01/2011  08:41 AM            58,830 Final_Entire Library_6-1-11.pdf
+03/14/2011  09:44 AM            23,576 Library Administration_3-14-11.pdf
+06/01/2011  08:41 AM            25,413 Library Technologies Division_6-1-11.pdf
+03/14/2011  09:45 AM            25,839 Overview University Libraries_3-14-11.pdf
+06/01/2011  08:41 AM            31,272 Research Education Division_6-1-11.pdf
+03/14/2011  09:45 AM            21,174 Special Collections Divison_3-14-11.pdf
+03/14/2011  09:45 AM            30,419 Technical Services_ADS_Division_3-14-11.pdf
+               8 File(s)        233,168 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\2011-2012 Archived Org Charts
+
+02/12/2016  11:43 AM    <DIR>          .
+02/12/2016  11:43 AM    <DIR>          ..
+04/10/2012  08:04 AM            18,080 Development_4-10-12.pdf
+11/03/2011  12:54 PM            20,692 External Relations_11-7-11.pdf
+02/12/2016  11:45 AM    <DIR>          LibAdmn
+11/16/2011  01:18 PM            25,416 Library Technologies Division_11-16-11.pdf
+12/09/2011  04:16 PM            22,382 Library Technologies Division_12-12-11.pdf
+02/02/2012  10:04 AM            22,382 Library Technologies Division_2-1-12.pdf
+03/02/2012  08:00 AM            22,403 Library Technologies Division_3-5-12.pdf
+04/10/2012  06:57 AM            22,397 Library Technologies Division_4-10-12.pdf
+09/12/2011  07:18 AM            25,420 Library Technologies Division_9-12-11.pdf
+02/12/2016  11:46 AM    <DIR>          LRDS
+12/03/2012  09:43 AM            23,769 Overview University Libraries_12-3-12.pdf
+04/12/2012  09:01 AM            23,936 Overview University Libraries_4-10-12.pdf
+04/12/2012  02:04 PM            24,045 Overview University Libraries_4-12-12.pdf
+08/31/2011  09:33 AM            29,952 Overview University Libraries_8-22-11.pdf
+08/31/2012  01:45 PM            23,712 Overview University Libraries_8-31-12.pdf
+01/12/2012  07:55 AM            24,672 Research Education Division_1-12-12.pdf
+10/10/2012  01:38 PM            25,767 Research Education Division_10-10-12.pdf
+10/30/2012  08:13 AM            29,588 Research Education Division_10-25-12.pdf
+04/12/2012  01:58 PM            25,403 Research Education Division_4-12-12.pdf
+06/14/2012  07:13 AM            25,311 Research Education Division_6-13-12.pdf
+08/31/2011  09:33 AM            28,586 Research Education Division_8-22-11.pdf
+08/31/2012  01:21 PM            25,760 Research Education Division_8-31-12.pdf
+02/12/2016  11:47 AM    <DIR>          User Services
+              20 File(s)        489,673 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\2011-2012 Archived Org Charts\LibAdmn
+
+02/12/2016  11:45 AM    <DIR>          .
+02/12/2016  11:45 AM    <DIR>          ..
+10/19/2012  01:24 PM            19,002 Library Administration_10-10-12.pdf
+10/19/2012  01:23 PM            19,371 Library Administration_10-19-12.pdf
+04/12/2012  10:41 AM            18,960 Library Administration_4-12-12.pdf
+08/31/2011  09:33 AM            22,107 Library Administration_8-22-11.pdf
+08/31/2012  01:21 PM            19,049 LibraryAdminstration_ 8-31-12.pdf
+               5 File(s)         98,489 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\2011-2012 Archived Org Charts\LRDS
+
+02/12/2016  11:46 AM    <DIR>          .
+02/12/2016  11:46 AM    <DIR>          ..
+10/20/2011  12:20 PM            31,021 Logistics Resources Distribution Services Division_10-20-11.pdf
+11/16/2011  01:19 PM            30,910 Logistics Resources Distribution Services Division_11-16-11.pdf
+03/07/2012  01:43 PM            27,412 Logistics Resources Distribution Services Division_2-1-12.pdf
+06/13/2012  03:44 PM            28,634 Logistics Resources Distribution Services Division_6-13-12.pdf
+08/31/2011  09:33 AM            30,525 Logistics Resources Distribution Services Division_8-22-11.pdf
+08/31/2012  01:20 PM            29,943 Logistics Resources Distribution Services Division_Interim_8-31-12.pdf
+               6 File(s)        178,445 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\2011-2012 Archived Org Charts\User Services
+
+02/12/2016  11:47 AM    <DIR>          .
+02/12/2016  11:47 AM    <DIR>          ..
+10/19/2012  01:24 PM            19,059 User Services Division_10-10-12.pdf
+10/19/2012  01:22 PM            19,045 User Services Division_10-18-12.pdf
+12/09/2011  04:16 PM            19,361 User Services Division_12-9-11.pdf
+04/12/2012  01:01 PM            19,271 User Services Division_4-12-12.pdf
+06/13/2012  03:45 PM            19,271 User Services Division_6-13-12.pdf
+08/31/2011  09:33 AM            21,548 User Services Division_8-22-11.pdf
+08/31/2012  01:21 PM            19,067 User Services Division_8-31-12.pdf
+               7 File(s)        136,622 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\2013Archived Org Charts
+
+02/12/2016  11:49 AM    <DIR>          .
+02/12/2016  11:49 AM    <DIR>          ..
+02/12/2016  11:51 AM    <DIR>          Adm
+12/03/2012  09:57 AM    <DIR>          Developmnt
+12/03/2012  09:56 AM    <DIR>          External Relations
+02/12/2016  11:53 AM    <DIR>          Lib Overview
+02/12/2016  11:54 AM    <DIR>          LRDS
+02/12/2016  11:57 AM    <DIR>          LTech
+02/12/2016  11:58 AM    <DIR>          Research Education
+02/12/2016  12:10 PM    <DIR>          SplColl
+               0 File(s)              0 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\2013Archived Org Charts\Adm
+
+02/12/2016  11:51 AM    <DIR>          .
+02/12/2016  11:51 AM    <DIR>          ..
+04/12/2012  02:04 PM            18,815 Assessment_4-12-12.pdf
+07/27/2012  02:32 PM            20,368 External Relations_7-23-12.pdf
+08/01/2013  10:18 AM            12,332 Library Administration_08-01-13.pdf
+08/29/2013  02:57 PM            12,339 Library Administration_08-29-13.pdf
+01/15/2013  02:48 PM            19,441 Library Administration_1-15-13.pdf
+01/25/2013  02:24 PM            19,462 Library Administration_1-30-13.pdf
+03/13/2013  06:01 AM            19,466 Library Administration_3-13-13.pdf
+05/22/2013  08:44 AM            12,279 Library Administration_5-22-13.pdf
+               8 File(s)        134,502 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\2013Archived Org Charts\Developmnt
+
+12/03/2012  09:57 AM    <DIR>          .
+12/03/2012  09:57 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\2013Archived Org Charts\External Relations
+
+12/03/2012  09:56 AM    <DIR>          .
+12/03/2012  09:56 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\2013Archived Org Charts\Lib Overview
+
+02/12/2016  11:53 AM    <DIR>          .
+02/12/2016  11:53 AM    <DIR>          ..
+01/15/2013  02:44 PM            23,506 Overview University Libraries_1-15-13.pdf
+02/06/2013  02:40 PM            23,506 Overview University Libraries_3-1-13.pdf
+               2 File(s)         47,012 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\2013Archived Org Charts\LRDS
+
+02/12/2016  11:54 AM    <DIR>          .
+02/12/2016  11:54 AM    <DIR>          ..
+01/15/2013  02:29 PM            29,654 Interim_Logistics Resources Distribution Services Division_1-15-2013.pdf
+03/11/2013  07:16 AM            29,563 Interim_Logistics Resources Distribution Services Division_3-11-2013.pdf
+03/20/2013  09:21 AM             9,857 Interim_Logistics Resources Distribution Services Division_3-20-2013.pdf
+08/01/2013  10:19 AM            13,945 Interim_Logistics Resources Distribution Services Division_8-01-2013.pdf
+10/31/2013  02:41 PM            13,694 Logistics Resources Distribution Services Division_8-29-2013.pdf
+               5 File(s)         96,713 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\2013Archived Org Charts\LTech
+
+02/12/2016  11:57 AM    <DIR>          .
+02/12/2016  11:57 AM    <DIR>          ..
+03/01/2013  10:50 AM            22,550 Library Technologies Division_3-1-13.pdf
+08/31/2012  01:22 PM            22,451 Library Technologies Division_8-31-12.pdf
+               2 File(s)         45,001 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\2013Archived Org Charts\Research Education
+
+02/12/2016  11:58 AM    <DIR>          .
+02/12/2016  11:58 AM    <DIR>          ..
+10/31/2013  02:28 PM            15,867 Research Education Division_10-29-13.pdf
+12/03/2012  01:13 PM            29,602 Research Education Division_12-3-2012.pdf
+02/01/2013  07:48 AM            29,470 Research Education Division_2-1-13.pdf
+03/20/2013  09:29 AM            11,983 Research Education Division_3-20-13.pdf
+08/01/2013  10:18 AM            16,188 Research Education Division_8-01-13.pdf
+10/31/2013  02:41 PM            15,969 Research Education Division_8-29-13.pdf
+05/16/2013  09:31 AM            16,096 Research Education Division_aa_5-7-13.pdf
+               7 File(s)        135,175 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\2013Archived Org Charts\SplColl
+
+02/12/2016  12:10 PM    <DIR>          .
+02/12/2016  12:10 PM    <DIR>          ..
+02/06/2013  02:39 PM            19,763 Special Collections Divison_3-1-13.pdf
+10/18/2012  03:06 PM            19,216 Special Collections Divison_3-14-11.pdf
+07/25/2013  07:40 AM             8,986 Special Collections Divison_7-25-13.pdf
+08/07/2013  11:44 AM            11,530 Special Collections Divison_8-2-13.pdf
+               4 File(s)         59,495 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\2014-15Archived OrgCharts
+
+02/11/2016  01:41 PM    <DIR>          .
+02/11/2016  01:41 PM    <DIR>          ..
+08/01/2014  09:12 AM            12,606 7-10-14Special Collections Divison_ aa.pdf
+08/01/2014  09:11 AM           221,252 7-16-14Library All aa.pdf
+08/01/2014  09:11 AM            16,347 7-16-14Research Education Division_ aa.pdf
+08/01/2014  09:13 AM            12,360 7-7-14-University Libraries Overview_aa.pdf
+06/02/2014  12:24 PM             8,711 Assessment_5-28-14 aa.pdf
+06/02/2014  12:24 PM             9,906 External Relations_5-28-14 aa.pdf
+04/04/2014  01:28 PM            11,606 Library Technologies Division 4-4-14.pdf
+10/17/2014  12:39 PM           219,449 Library_All_10-17-14_aa.pdf
+11/04/2014  08:28 AM           219,470 Library_All_11-3-14_aa (2).pdf
+04/15/2014  07:43 AM            14,258 Logistics Resources Distribution Services Division_4-14-2014 aa.pdf
+10/17/2014  12:39 PM             8,147 Special_Collections_Divison_10-17-14_aa.pdf
+10/17/2014  12:39 PM             7,904 University_Libraries_Overview_10-17-14_aa.pdf
+11/04/2014  08:20 AM             8,905 University_Libraries_Overview_11-3-14_aa.pdf
+              13 File(s)        770,921 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\2014ArchivedOrgCharts
+
+02/11/2016  01:41 PM    <DIR>          .
+02/11/2016  01:41 PM    <DIR>          ..
+09/04/2013  01:56 PM             8,622 Assessment_8-29-13.pdf
+01/17/2014  08:33 AM             9,972 External Relations_1-16-14.pdf
+02/10/2014  08:43 AM             9,942 External Relations_2-3-14 aa.pdf
+09/04/2013  01:55 PM             9,833 External Relations_8-29-13.pdf
+01/17/2014  08:34 AM           209,845 Library All 1-16-14 aa.pdf
+01/22/2014  01:49 PM           209,797 Library All 1-22-14 aa.pdf
+01/30/2014  08:28 AM           209,806 Library All 1-29-14 aa.pdf
+01/06/2014  08:03 AM           209,600 Library All 12-20-13 aa.pdf
+02/10/2014  08:44 AM           209,822 Library All 2-7-14 aa.pdf
+03/31/2014  02:06 PM           210,028 Library All 3-31-14 aa.pdf
+04/15/2014  07:42 AM           221,234 Library All 4-14-14 aa.pdf
+04/22/2014  07:17 AM           221,256 Library All 4-21-14 aa.pdf
+04/04/2014  01:27 PM           209,927 Library All 4-4-14 aa.pdf
+06/02/2014  12:25 PM           221,285 Library All 5-28-14 aa.pdf
+09/04/2013  01:55 PM           209,306 Library All 9-4-13.pdf
+01/17/2014  08:34 AM            12,440 Library Technologies Division_1-7-14.pdf
+02/10/2014  08:44 AM            12,554 Library Technologies Division_2-3-14 aa.pdf
+09/04/2013  01:55 PM            12,636 Library Technologies Division_8-29-13.pdf
+01/17/2014  08:35 AM            13,753 Logistics Resources Distribution Services Division_1-16-2014 aa.pdf
+01/30/2014  08:29 AM            13,770 Logistics Resources Distribution Services Division_1-29-2014 aa.pdf
+10/31/2013  02:28 PM            13,641 LRDS_10_29_13.pdf
+01/17/2014  08:35 AM            16,258 Research Education Division_1-16-14 aa.pdf
+12/19/2013  03:39 PM            15,851 Research Education Division_12-19-13.pdf
+12/10/2013  01:34 PM            15,124 Research Education Division_12-9-13.pdf
+03/31/2014  02:06 PM            16,566 Research Education Division_3-31-14 aa.pdf
+04/22/2014  07:17 AM            16,598 Research Education Division_4-21-14 aa.pdf
+06/02/2014  12:24 PM            16,356 Research Education Division_5-28-14 aa.pdf
+01/17/2014  08:33 AM            11,673 Special Collections Divison_1-16-14 aa.pdf
+01/22/2014  01:40 PM            11,580 Special Collections Divison_1-22-14 aa.pdf
+02/10/2014  08:43 AM            11,590 Special Collections Divison_2-7-14 aa.pdf
+04/04/2014  01:28 PM            12,609 Special Collections Divison_4-4-14 aa.pdf
+09/04/2013  01:54 PM            11,687 Special Collections Divison_9-4-13.pdf
+04/22/2014  07:18 AM            12,621 SpecialCollections Division_4-21-14.pdf
+09/04/2013  01:54 PM            10,184 University Libraries Overview_8-20-13.pdf
+              34 File(s)      2,637,766 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\2015-16ArchivedOrgCharts
+
+02/11/2016  01:41 PM    <DIR>          .
+02/11/2016  01:41 PM    <DIR>          ..
+10/22/2015  02:56 PM           219,495 Library_All_10-21_15.pdf
+10/12/2015  10:42 AM           219,314 Library_All_9-25_15.pdf
+09/10/2015  09:47 AM           219,362 Library_All_9-9_15.pdf
+10/22/2015  02:57 PM             7,646 Library_Technologies_Division_10-22-15.pdf
+12/22/2015  02:04 PM            11,792 Library_Technologies_Division_12-22-15.pdf
+08/12/2015  02:24 PM             7,497 Library_Technologies_Division_8-6-15.pdf
+10/22/2015  02:58 PM            11,823 Research_Education_Division_10-21-15.pdf
+09/10/2015  09:47 AM            11,783 Research_Education_Division_9-9-15.pdf
+08/12/2015  02:25 PM             8,276 Special Collections Divison_8-4-15.pdf
+10/12/2015  10:42 AM             8,275 Special Collections Divison_9-25-15.pdf
+              10 File(s)        725,263 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\2015ARCHIVEDORGCHARTS
+
+02/11/2016  01:41 PM    <DIR>          .
+02/11/2016  01:41 PM    <DIR>          ..
+10/17/2014  12:37 PM             9,368 Assessment_10-17-14_aa.pdf
+08/12/2015  02:21 PM             6,096 Assessment_8-4-15.pdf
+01/30/2015  03:56 PM            10,590 CADS_1-30-2015_aa.pdf
+01/20/2015  09:02 AM            10,602 CADS_1-7-2015_aa.pdf
+03/03/2015  01:54 PM            10,596 Collections, Acquisitions and Discovery Division_2-20-2015_aa.pdf
+04/24/2015  09:23 AM            10,433 Collections, Acquisitions and Discovery Division_4-24-2015_aa.pdf
+08/12/2015  02:22 PM            10,308 Collections, Acquisitions and Discovery Division_8-6-15.pdf
+10/17/2014  12:38 PM            10,471 Collections_Acquisitions_and_Discovery_Division_10-17-2014_aa.pdf
+09/04/2013  01:55 PM            12,253 Library Administration_08-29-13.pdf
+02/02/2015  03:37 PM             8,363 Library_Administration_2-2-15.pdf
+01/20/2015  09:03 AM           220,111 Library_All_1-20-15_aa.pdf
+01/30/2015  03:55 PM           220,347 Library_All_1-30-15_aa.pdf
+12/02/2014  03:09 PM           220,106 Library_All_12-2-14_aa.pdf
+02/02/2015  03:37 PM           220,373 Library_All_2-2-15_aa.pdf
+03/03/2015  01:55 PM           220,136 Library_All_3-3-15_aa.pdf
+04/24/2015  09:24 AM           222,728 Library_All_4-24-15_aa.pdf
+08/12/2015  02:24 PM           219,290 Library_All_8-6_15.pdf
+11/04/2014  08:22 AM             7,326 Library_Technologies_Division_11-3-14.pdf
+03/03/2015  01:54 PM             7,783 Library_Technologies_Division_2-20-15.pdf
+04/24/2015  09:24 AM             7,534 Library_Technologies_Division_4-24-15.pdf
+01/20/2015  09:03 AM            11,866 Research_Education_Division_1-20-15_aa.pdf
+12/02/2014  03:09 PM            11,860 Research_Education_Division_11-7-14_aa.pdf
+03/03/2015  01:55 PM            11,871 Research_Education_Division_2-13-15_aa.pdf
+04/24/2015  09:25 AM            12,002 Research_Education_Division_4-24-15_aa.pdf
+08/12/2015  02:25 PM            11,724 Research_Education_Division_8-6-15.pdf
+12/02/2014  03:09 PM             8,372 Special Collections Divison_12-2-14 aa.pdf
+04/24/2015  09:25 AM             8,495 Special Collections Divison_4-24-15 aa.pdf
+01/20/2015  09:03 AM             8,507 Special Collections_1-20-15 aa.pdf
+01/30/2015  03:30 PM             8,208 University_Libraries_Overview_1-30-15_aa.pdf
+11/04/2014  08:20 AM             8,905 University_Libraries_Overview_11-3-14_aa (1).pdf
+03/03/2015  01:55 PM             7,957 University_Libraries_Overview_3-3-15_aa.pdf
+08/12/2015  02:26 PM             7,998 University_Libraries_Overview_8-6-15.pdf
+              32 File(s)      1,782,579 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\2016Archived_1- Org Charts
+
+02/11/2016  01:41 PM    <DIR>          .
+02/11/2016  01:41 PM    <DIR>          ..
+09/10/2015  09:45 AM             6,114 Assessment_9-9-15.pdf
+09/10/2015  09:46 AM            10,342 Collections, Acquisitions and Discovery Division_9-9-15.pdf
+10/17/2014  12:57 PM             7,388 External_Relations_9-16-14_aa.pdf
+08/12/2015  02:23 PM             8,173 Library_Administration_8-6-15.pdf
+12/07/2015  01:43 PM           264,630 Library_All_12-7-15.pdf
+12/22/2015  02:08 PM            11,792 Library_Technologies_Division_12-22-15.pdf
+12/07/2015  01:44 PM            11,508 Research_Education_Division_12-7-15.pdf
+12/07/2015  01:53 PM             8,198 Special Collections Divison_12-7-15-2.pdf
+12/07/2015  01:45 PM             8,342 Special Collections Divison_12-7-15.pdf
+09/10/2015  09:48 AM             8,052 University_Libraries_Overview_9-9-15.pdf
+              10 File(s)        344,539 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\Active OrgCharts
+
+02/11/2016  01:41 PM    <DIR>          .
+02/11/2016  01:41 PM    <DIR>          ..
+09/10/2015  09:45 AM             6,114 Assessment_9-9-15.pdf
+01/29/2016  02:32 PM            10,250 Collections, Acquisitions and Discovery Division_2-1-16.pdf
+02/05/2016  09:54 AM             7,817 External Relations__2-5-16.pdf
+01/29/2016  02:33 PM             8,120 Library_Administration_1-12-16.pdf
+02/05/2016  09:50 AM           266,410 Library_All_2-5-16.pdf
+01/29/2016  02:28 PM             7,973 Library_Technologies_Division_2-1-16.pdf
+02/05/2016  10:30 AM            15,625 Research_Education_Division1__2-1-16.pdf
+01/29/2016  03:27 PM            11,601 Research_Education_Division_2-1-16.pdf
+01/29/2016  03:28 PM             8,403 Special Collections Divison_12-7-15.pdf
+02/05/2016  09:48 AM             8,035 University_Libraries_Overview_2-5-16.pdf
+              10 File(s)        350,348 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\annual_reports
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+07/17/2006  09:44 AM           653,824 02-03-Annual Report.doc
+07/09/2009  11:09 AM            52,736 09-11 Libs Strategic Plan (with Yr. and Point Person).xls
+06/23/2010  10:21 AM            15,804 2009_2011_Strategic_Plan_Action_Items_for_Cabinet_Vetting.docx
+12/03/2009  09:09 AM            70,637 Biannual_Report_Jan_-_June_2009.docx
+02/22/2010  03:50 PM            81,459 Biannual_Report_July_-_December_2009.docx
+03/14/2014  01:38 PM            54,314 CY2013_Libraries_Annual_Report.docx
+07/17/2006  09:44 AM           580,096 FY 2004 Libraries Annual Report.doc
+08/29/2006  02:05 PM           764,416 FY05_annual_report.doc
+07/09/2008  02:05 PM           185,347 FY06_annual_report.docx
+06/09/2015  03:47 PM            44,787 FY1617SPLibs.docx
+07/28/2007  03:14 PM             1,399 index.php
+02/22/2010  04:07 PM           340,869 Libs2009AR.pdf
+06/03/2015  03:22 PM           180,806 LibsCY2014annualreport.pdf
+06/24/2011  07:26 AM            20,142 Libs_Semi_Annual_report_format_062210.docx
+              14 File(s)      3,046,636 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\Bylawscomm
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+05/28/2015  08:43 AM            35,373 2014TFrpt.docx
+04/23/2015  03:19 PM            16,314 2015_April_bylawsmtgnotes.docx
+02/19/2015  03:07 PM            18,692 2015_Jan_bylawsmtgnotes.docx
+06/24/2015  12:21 PM            18,732 2015_June_bylawsmtg.docx
+06/24/2015  12:27 PM           128,215 Libfacbylaws.pdf
+               5 File(s)        217,326 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\cabinet
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+09/22/2008  02:10 PM         1,208,943 2008_09_17_mtg_handout1.pdf
+03/11/2013  10:36 AM            28,946 cabinet_budget_call_funding.xlsx
+07/19/2010  01:14 PM            13,278 CABINET_GROUND_RULES.docx
+07/31/2007  01:38 PM            58,880 cabinet_mtg_ summary_07-11-07.doc
+07/17/2006  09:45 AM            32,256 cabinet_mtg_summary _1-18-06.doc
+07/17/2006  09:45 AM            41,984 cabinet_mtg_summary _1-4-06.doc
+02/01/2008  11:26 AM            37,376 cabinet_mtg_summary_01_16_08.doc
+02/19/2008  03:27 PM            39,936 cabinet_mtg_summary_02_06_08.doc
+02/12/2007  03:10 PM            46,080 cabinet_mtg_summary_02_07_07.doc
+03/20/2008  02:08 PM            31,744 cabinet_mtg_summary_03_05_08.doc
+04/10/2008  08:47 AM            73,728 cabinet_mtg_summary_04_02_08.doc
+05/09/2007  12:51 PM            42,496 cabinet_mtg_summary_05_02_07.doc
+05/14/2008  03:39 PM            56,832 cabinet_mtg_summary_05_07_08.doc
+06/02/2008  12:39 PM            33,280 cabinet_mtg_summary_05_21_08.doc
+07/21/2008  01:35 PM            32,768 cabinet_mtg_summary_07_02_08.doc
+08/10/2007  09:35 AM            38,400 cabinet_mtg_summary_08_01_07.doc
+08/13/2008  12:11 PM            30,720 cabinet_mtg_summary_08_06_08.doc
+09/25/2007  12:31 PM            45,568 cabinet_mtg_summary_09_19_07.doc
+07/17/2006  09:45 AM            34,816 cabinet_mtg_summary_10-5-05.doc
+10/19/2007  08:44 AM            40,960 cabinet_mtg_summary_10_01_07.doc
+01/15/2008  09:14 AM            40,960 cabinet_mtg_summary_10_17_07.doc
+01/14/2008  11:23 AM            19,850 cabinet_mtg_summary_10_17_07.docx
+07/17/2006  09:45 AM            40,960 cabinet_mtg_summary_11-2-05.doc
+07/17/2006  09:45 AM            37,888 cabinet_mtg_summary_11-30-05.doc
+11/09/2006  02:34 PM            34,304 cabinet_mtg_summary_11_01_06.doc
+12/17/2008  01:11 PM            31,744 cabinet_mtg_summary_11_19_08.doc
+12/14/2006  02:02 PM            53,248 cabinet_mtg_summary_12_06_06.doc
+07/17/2006  09:45 AM            35,840 cabinet_mtg_summary_2-1-06.doc
+07/17/2006  09:45 AM            32,768 cabinet_mtg_summary_2-15-06.doc
+09/22/2008  03:41 PM            20,610 cabinet_mtg_summary_2008_09_17.docx
+10/30/2008  03:04 PM            15,398 cabinet_mtg_summary_2008_10_15.docx
+01/07/2009  09:38 AM            37,888 cabinet_mtg_summary_2008_12_17.doc
+01/26/2009  11:03 AM            41,984 cabinet_mtg_summary_2009_01_14.doc
+03/05/2009  03:00 PM            38,400 cabinet_mtg_summary_2009_02_11.doc
+03/20/2009  12:42 PM            31,744 cabinet_mtg_summary_2009_03_11.doc
+05/27/2009  01:33 PM            40,448 cabinet_mtg_summary_2009_05_13.doc
+06/18/2009  01:37 PM            44,032 cabinet_mtg_summary_2009_06_10.doc
+09/09/2009  04:28 PM            38,912 cabinet_mtg_summary_2009_08_12.doc
+09/28/2009  03:50 PM            45,056 cabinet_mtg_summary_2009_09_09.doc
+10/28/2009  08:35 AM            35,328 cabinet_mtg_summary_2009_10_14.doc
+01/07/2010  11:49 AM            20,537 cabinet_mtg_summary_2009_12_09.docx
+01/20/2010  02:41 PM            22,472 cabinet_mtg_summary_2010_01_13.docx
+02/10/2010  03:13 PM            17,049 cabinet_mtg_summary_2010_02_10.docx
+04/23/2010  02:49 PM            25,368 cabinet_mtg_summary_2010_04_14.docx
+06/24/2010  01:39 PM            23,640 cabinet_mtg_summary_2010_06_09.docx
+07/22/2010  12:35 PM            20,097 cabinet_mtg_summary_2010_07_14.docx
+10/04/2010  03:55 PM            17,797 cabinet_mtg_summary_2010_09_08.docx
+10/22/2010  03:31 PM            19,108 cabinet_mtg_summary_2010_10_13.docx
+11/15/2010  08:28 AM            18,439 cabinet_mtg_summary_2010_11_10.docx
+01/04/2011  09:52 AM            21,804 cabinet_mtg_summary_2010_12_08.docx
+01/20/2011  01:50 PM            20,643 cabinet_mtg_summary_2011_01_12.docx
+02/10/2011  08:51 AM            12,998 cabinet_mtg_summary_2011_02_09.docx
+05/02/2011  03:47 PM            18,822 cabinet_mtg_summary_2011_03_09.docx
+05/05/2011  09:09 AM            29,940 cabinet_mtg_summary_2011_04_13.docx
+06/09/2011  03:35 PM            21,942 cabinet_mtg_summary_2011_05_11.docx
+07/18/2011  09:27 AM            25,035 cabinet_mtg_summary_2011_07_13_revjv.docx
+08/12/2011  07:31 AM            24,565 cabinet_mtg_summary_2011_08_10.docx
+11/14/2011  01:51 PM            19,165 cabinet_mtg_summary_2011_10_12.docx
+12/02/2011  04:01 PM            19,639 cabinet_mtg_summary_2011_11_09.docx
+02/14/2012  03:14 PM            21,453 cabinet_mtg_summary_2012_02_08.docx
+03/29/2012  12:27 PM            23,462 cabinet_mtg_summary_2012_03_14.docx
+05/02/2012  02:46 PM            26,348 cabinet_mtg_summary_2012_04_11.docx
+07/30/2012  07:45 AM            22,622 cabinet_mtg_summary_2012_07_11.docx
+08/28/2012  09:24 AM            23,265 cabinet_mtg_summary_2012_08_15.docx
+10/01/2012  03:19 PM            25,443 cabinet_mtg_summary_2012_09_12.docx
+10/22/2012  01:04 PM            20,665 cabinet_mtg_summary_2012_10_10.docx
+11/19/2012  10:50 AM            27,002 cabinet_mtg_summary_2012_11_14_FINAL.docx
+06/18/2013  11:25 AM            23,599 cabinet_mtg_summary_2013_06_12.docx
+03/11/2008  07:44 AM            39,936 cabinet_mtg_summary_2_20_08.doc
+04/02/2007  10:56 AM            37,888 cabinet_mtg_summary_3_21_07.doc
+07/17/2006  09:45 AM            38,912 cabinet_mtg_summary_4-19-06.doc
+07/17/2006  09:45 AM            37,376 cabinet_mtg_summary_4-5-06.doc
+07/17/2006  09:45 AM            32,768 cabinet_mtg_summary_5-17-06.doc
+07/27/2006  10:45 AM            37,888 cabinet_mtg_summary_7-12-06.doc
+07/17/2006  09:45 AM            39,936 cabinet_mtg_summary_7-20-05.doc
+07/17/2006  09:45 AM            35,328 cabinet_mtg_summary_8-15-05.doc
+08/22/2006  01:33 PM            39,936 cabinet_mtg_summary_8-16-06.doc
+07/17/2006  09:45 AM            36,352 cabinet_mtg_summary_8-3-05.doc
+07/17/2006  09:45 AM            38,912 cabinet_mtg_summary_8-31-05.doc
+07/17/2006  09:45 AM            35,328 cabinet_mtg_summary_9-21-05.doc
+07/17/2006  09:45 AM            35,840 cabinet_mtg_summary_9-7-05.doc
+07/28/2007  03:14 PM             1,399 index.php
+09/11/2012  08:42 AM            12,163 Strat_Plan_FY12_FY15_items_for_Cabinet_vetting.xlsx
+08/29/2012  09:01 AM               162 ~$binet_mtg_summary_2012_02_08.docx
+06/11/2010  10:28 AM               162 ~$rects_2008_07_14.docx
+              85 File(s)      3,799,558 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\Classified_staff
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+04/01/2014  01:18 PM            17,954 2012_December6_classmtgdean.docx
+04/01/2014  01:51 PM           613,619 2013_Aug6_classmtgdean.pdf
+04/01/2014  01:49 PM            24,502 2014_March19_classmtgdean.docx
+               3 File(s)        656,075 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\committees_groups
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+05/29/2013  07:52 AM            49,152 committee_members 2010.doc
+05/14/2010  02:46 PM            49,152 committee_members.doc
+05/05/2011  02:50 PM            52,736 committee_members_10_11.doc
+05/09/2012  03:32 PM            51,712 committee_members_11_12.doc
+04/26/2013  02:55 PM            53,248 committee_members_12_13.doc
+04/18/2014  09:46 AM            52,224 committee_members_13_14.doc
+02/18/2015  04:00 PM            52,736 committee_members_14_15.doc
+11/12/2015  04:23 PM            54,272 committee_members_15_16.doc
+06/09/2008  01:36 PM            47,616 govt_docs_task_force.doc
+07/28/2007  03:14 PM             1,399 index.php
+07/17/2006  09:44 AM            25,600 Safety Committee Charge.doc
+07/17/2006  09:44 AM            26,112 Serials Review Group charge0103.doc
+11/27/2007  04:34 PM               706 Shortcut to committee_members.doc.lnk
+04/06/2009  04:17 PM            48,128 Shortcut to committee_members.doc.lnk.doc
+06/22/2015  10:39 AM            53,248 University_Libraries_Committee_Responsibilities20100519.doc
+01/08/2008  09:39 AM               162 ~$mmittee_members.doc
+07/01/2010  09:59 AM               162 ~$mmittee_members_10_11.doc
+02/13/2012  04:23 PM               162 ~$mmittee_members_11_12.doc
+              18 File(s)        618,527 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+09/17/2015  09:56 AM            21,965 councilcharge.docx
+10/14/2015  12:33 PM            22,281 councilcharge2.docx
+09/17/2015  09:55 AM            22,006 councilchargedraftSept2015.docx
+09/09/2015  04:13 PM            19,378 Councilmtgfacilitateguidelines.docx
+06/24/2014  01:27 PM            32,260 Council_agendas.xlsx
+07/30/2013  08:28 AM            29,361 COUNCIL_GROUND_RULES.docx
+09/11/2015  04:15 PM            20,719 Council_guide_for_meeting_faciliatators.docx
+02/11/2016  01:42 PM    <DIR>          FY14
+08/14/2013  10:36 AM            10,727 FY14_Council_Meeting_Dates_Location_and_Chairperson.xlsx
+02/11/2016  01:42 PM    <DIR>          FY15
+02/25/2015  11:21 AM            33,754 FY15Council_agendas.xlsx
+07/01/2015  09:14 AM            33,999 FY15Council_agendas2.xlsx
+02/11/2016  01:42 PM    <DIR>          FY16
+02/04/2016  03:01 PM           216,811 FY16Council_agendas.xlsx
+01/22/2016  04:29 PM            16,538 Guideline_Council_Facilitation.docx
+02/04/2016  10:59 AM            47,377 Guideline_Council_Facilitation.pdf
+              13 File(s)        527,176 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY14
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+07/31/2013  12:08 PM            17,424 Council_2013_Aug14_Agenda.docx
+08/19/2013  03:21 PM            21,610 Council_2013_Aug14_summary.docx
+08/26/2013  01:14 PM            16,278 Council_2013_Aug28_Agenda.docx
+09/03/2013  01:43 PM            24,292 Council_2013_Aug28_summary.docx
+07/15/2013  11:02 AM            16,358 Council_2013_Aug_14_agendadraft.docx
+12/04/2013  02:14 PM            17,046 Council_2013_Dec11_Agenda.docx
+12/19/2013  03:42 PM            24,378 Council_2013_Dec11_Summary.docx
+07/29/2013  07:28 AM            22,286 Council_2013_July24_summary.docx
+07/05/2013  08:21 AM            16,889 Council_2013_July_10_Agenda.docx
+07/15/2013  08:00 AM            25,264 Council_2013_July_10_summary.docx
+07/22/2013  01:56 PM            17,977 Council_2013_July_24_Agenda.docx
+11/07/2013  10:04 AM            16,578 Council_2013_Nov13_Agenda.docx
+11/25/2013  11:37 AM            21,095 Council_2013_Nov13_Summary.docx
+11/18/2013  01:46 PM            16,424 Council_2013_Nov27_Agenda.docx
+12/04/2013  09:41 AM            29,728 Council_2013_Nov27_Summary.docx
+10/29/2013  12:52 PM            16,729 Council_2013_Oct23_Agenda.docx
+11/12/2013  10:16 AM            20,336 Council_2013_Oct23_Summary.docx
+10/07/2013  12:30 PM            16,547 Council_2013_Oct9_Agenda.docx
+10/24/2013  11:25 AM            26,030 Council_2013_Oct9_Summary.docx
+09/05/2013  10:05 AM            16,810 Council_2013_Sept11_Agenda.docx
+09/30/2013  12:10 PM            24,716 Council_2013_Sept11_summary.docx
+09/19/2013  03:32 PM            16,644 Council_2013_Sept25_Agenda.docx
+10/08/2013  08:50 AM            25,822 Council_2013_Sept25_summary.docx
+04/21/2014  10:52 AM            15,191 Council_2014_April23_Agenda.docx
+04/24/2014  04:02 PM            27,502 Council_2014_April23_Summary.docx
+05/05/2014  02:58 PM            26,851 Council_2014_April23_Summary2.docx
+03/31/2014  07:47 AM            16,760 Council_2014_April9_Agenda.docx
+04/22/2014  02:31 PM            31,197 Council_2014_April9_Summary.docx
+02/04/2014  05:09 PM            16,521 Council_2014_Feb12_Agenda.docx
+02/24/2014  11:57 AM            21,132 Council_2014_Feb12_Summary.docx
+02/20/2014  01:07 PM            16,705 Council_2014_Feb26_Agenda.docx
+02/27/2014  09:14 AM            22,494 Council_2014_Feb26_Summary.docx
+01/13/2014  03:48 PM            16,492 Council_2014_Jan22_Agenda.docx
+02/03/2014  09:27 AM            21,527 Council_2014_Jan22_Summary.docx
+01/06/2014  08:59 AM            15,483 Council_2014_Jan8_Agenda.docx
+01/24/2014  02:22 PM            20,592 Council_2014_Jan8_Summary.docx
+06/26/2014  12:28 PM            29,627 Council_2014_June11summary.docx
+06/23/2014  02:18 PM            29,620 council_2014_June11summary2.docx
+06/09/2014  09:36 AM            16,525 Council_2014_June11_Agenda.docx
+06/20/2014  12:02 PM            17,905 Council_2014_June25_Agenda.docx
+03/24/2014  09:48 AM            19,322 Council_2014_March26_Agenda.docx
+03/26/2014  01:54 PM            21,721 Council_2014_March26_Summary.docx
+03/27/2014  01:03 PM            21,829 Council_2014_March26_Summary2.docx
+05/23/2014  08:12 AM            17,349 Council_2014_May14_Agenda.docx
+05/22/2014  02:52 PM            29,527 Council_2014_May14_Summary.docx
+05/27/2014  08:00 AM            16,742 Council_2014_May28_Agenda.docx
+06/16/2014  09:26 AM            28,343 Council_2014_May28_Summary.docx
+07/22/2013  02:22 PM            55,405 SPassessmentJuly2013.docx
+02/11/2016  01:42 PM    <DIR>          Supporting_documents
+              48 File(s)      1,039,623 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY14\Supporting_documents
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+02/11/2016  01:42 PM    <DIR>          April23
+02/11/2016  01:42 PM    <DIR>          April9
+02/11/2016  01:42 PM    <DIR>          Aug28
+02/11/2016  01:42 PM    <DIR>          Dec11
+02/11/2016  01:42 PM    <DIR>          Feb12
+02/11/2016  01:42 PM    <DIR>          Jan22
+02/11/2016  01:42 PM    <DIR>          Jan8
+02/11/2016  01:42 PM    <DIR>          July_24
+02/11/2016  01:42 PM    <DIR>          June11
+03/24/2014  08:56 AM    <DIR>          March26
+02/11/2016  01:42 PM    <DIR>          May14
+02/11/2016  01:42 PM    <DIR>          May28
+02/11/2016  01:42 PM    <DIR>          Nov13
+02/11/2016  01:42 PM    <DIR>          Nov27
+02/11/2016  01:42 PM    <DIR>          Oct23
+02/11/2016  01:42 PM    <DIR>          Oct9
+02/11/2016  01:42 PM    <DIR>          Sept25
+02/11/2016  01:42 PM    <DIR>          Sept_11
+               0 File(s)              0 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY14\Supporting_documents\April23
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+04/21/2014  12:01 PM            27,044 chargetemplates.docx
+04/25/2014  09:41 AM            28,604 chargetemplates2.docx
+04/21/2014  10:40 AM            56,331 council_charge_exercise.docx
+04/21/2014  10:58 AM            17,924 Libexpectationschairsmembers.docx
+04/21/2014  10:59 AM            22,528 policiesunivlib.doc
+04/21/2014  10:57 AM            20,427 policylibgrps.docx
+04/25/2014  08:53 AM            19,781 policylibgrps2.docx
+               7 File(s)        192,639 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY14\Supporting_documents\April9
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+04/08/2014  10:38 AM            17,186 councilagendaschedulepref.docx
+03/31/2014  12:46 PM            17,030 Councilmtgchair.docx
+04/07/2014  10:15 AM            31,983 LibraryEquipmentRequests2014StatusNoFurniture.xlsx
+04/07/2014  12:25 PM            24,900 TrainingSummary2014.docx
+03/31/2014  07:43 AM         2,279,750 Webworkinggroupreport.pdf
+               5 File(s)      2,370,849 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY14\Supporting_documents\Aug28
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+09/03/2013  02:40 PM           240,586 OE_Presentation_Libcouncil.pptx
+09/03/2013  02:39 PM         2,636,317 WebCampusCouncil2013.pptx
+               2 File(s)      2,876,903 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY14\Supporting_documents\Dec11
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+12/03/2013  10:15 AM            23,083 active directory passwords.docx
+12/03/2013  09:51 AM            23,038 Active_Directory_Account_Practices.docx
+12/03/2013  10:16 AM            44,263 Active_Directory_Account_Practices.pdf
+12/11/2013  12:38 PM            33,792 libacctoverview.doc
+12/11/2013  12:37 PM            74,917 Lib_budget101.pptx
+01/09/2014  11:25 AM           905,788 Lib_Collections_budgetoverview.pptx
+               6 File(s)      1,104,881 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY14\Supporting_documents\Feb12
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+02/11/2014  02:17 PM         2,572,504 Camera_OverhaulPP.pptx
+02/10/2014  10:39 AM            19,741 Compiled_onetime_project_funding_2014.xlsx
+02/10/2014  10:50 AM            34,037 EquipmentRequests_2014.xlsx
+02/04/2014  05:12 PM            15,806 Gov_Docs_LOA_request.docx
+02/04/2014  05:14 PM        16,253,388 Reshelving_tables_reason.docx
+               5 File(s)     18,895,476 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY14\Supporting_documents\Jan22
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+02/03/2014  09:33 AM            93,031 SpecCollreorg.pdf
+               1 File(s)         93,031 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY14\Supporting_documents\Jan8
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+12/19/2013  01:52 PM            22,424 Exhibit_Policy_Draft.docx
+               1 File(s)         22,424 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY14\Supporting_documents\July_24
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+07/05/2013  09:10 AM            47,638 2011_2015_Strategic_Plan.docx
+07/05/2013  09:05 AM           238,524 ACRL_Standards_for_Libraries_in_Higher_Education.pdf
+07/05/2013  09:04 AM           290,520 Education_update_030413.pdf
+07/05/2013  09:07 AM           596,643 Fall_2012_Library_Users_Survey_Summary.pdf
+07/05/2013  09:03 AM            36,150 Infrastructure_update_101112.pdf
+07/05/2013  09:09 AM           172,905 Libraries_Listening_to_Departments_faculty_comments.pdf
+07/05/2013  09:04 AM           193,439 Research_update_122012.pdf
+07/10/2013  03:45 PM           221,294 stratplankickoff2014.pptx
+               8 File(s)      1,797,113 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY14\Supporting_documents\June11
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+06/09/2014  09:33 AM           204,830 CouncilSRGUpdate.pptx
+06/09/2014  09:29 AM           324,929 Sec_Inventory_Selfcheck_report_final_draft.docx
+               2 File(s)        529,759 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY14\Supporting_documents\March26
+
+03/24/2014  08:56 AM    <DIR>          .
+03/24/2014  08:56 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY14\Supporting_documents\May14
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+05/23/2014  08:15 AM            17,960 Council_May14_AllGroupWorksheet.docx
+05/23/2014  08:16 AM            18,304 Council_May14_SmallGroupWorksheet.docx
+               2 File(s)         36,264 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY14\Supporting_documents\May28
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+05/27/2014  07:55 AM           111,262 GrpMtgSpguidelines.pdf
+05/28/2014  07:17 AM           412,417 GSR.PolicyUpdate.pdf
+05/27/2014  07:55 AM            35,969 GSR_Policy_Sign_050114.pdf
+05/27/2014  01:15 PM           340,611 MedSchLibproposal.pdf
+               4 File(s)        900,259 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY14\Supporting_documents\Nov13
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+11/13/2013  11:20 AM           211,542 Council_Web_Project_Clicker_Results.pdf
+               1 File(s)        211,542 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY14\Supporting_documents\Nov27
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+12/04/2013  09:47 AM            26,879 commexresults.docx
+               1 File(s)         26,879 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY14\Supporting_documents\Oct23
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+10/24/2013  02:29 PM            44,234 Compiled_Web_Project_Evaluation_Questions.docx
+10/23/2013  03:35 PM            18,955 Web_Project_Criteria_exercise_compiled.xlsx
+10/22/2013  01:20 PM           412,129 Web_Proposal_Flowchart.jpg
+               3 File(s)        475,318 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY14\Supporting_documents\Oct9
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+10/03/2013  12:41 PM            22,591 SecurityAudit.docx
+10/07/2013  12:27 PM           110,606 webprojectproposal.pdf
+               2 File(s)        133,197 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY14\Supporting_documents\Sept25
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+09/19/2013  03:27 PM            95,450 digital_assets.pptx
+09/19/2013  02:36 PM            30,771 ILScharge.docx
+06/19/2013  11:30 AM            22,705 ILSPCharge2013.docx
+10/02/2013  12:46 PM           142,839 LASR.pptx
+09/19/2013  11:45 AM            21,439 LibPlatSandbox.docx
+               5 File(s)        313,204 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY14\Supporting_documents\Sept_11
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+09/10/2013  03:54 PM           184,305 ENG102_and_FYS.pptx
+09/10/2013  08:23 AM            17,451 SP_Direction1_Assessment.docx
+09/30/2013  12:22 PM           439,041 UNLVGenEd.pdf
+09/30/2013  12:22 PM         1,065,141 UULO.pdf
+               4 File(s)      1,705,938 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY15
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+07/21/2014  01:05 PM            19,306 2014_07_23_Agenda.docx
+07/21/2014  09:43 AM            23,011 2014_07_23_InternalCommCollabTFchargerev.docx
+07/30/2014  09:03 AM            28,623 2014_07_23_Summary.docx
+07/21/2014  12:33 PM            87,173 2014_07_23_Visix_Destinations_012914.pdf
+07/21/2014  12:34 PM           812,841 2014_07_23_Visix_Draft_Wayfinding.pdf
+07/25/2014  02:35 PM         1,208,879 2014_07_23_Wayfindingupdate.pdf
+08/08/2014  07:56 AM            31,232 2014_08_13_Agenda.doc
+08/04/2014  03:02 PM            19,316 2014_08_13_revisedmedialoanpolicy.docx
+08/19/2014  08:33 AM            25,334 2014_08_13_Summary.docx
+08/19/2014  09:25 AM         5,544,201 2014_08_13_ticketingsystem.pdf
+08/22/2014  03:13 PM            17,610 2014_08_27_Agenda.docx
+08/25/2014  04:50 PM            19,310 2014_08_27_Studenthiringpractices.docx
+09/05/2014  01:46 PM            27,529 2014_08_27_Summary.docx
+09/04/2014  03:09 PM            17,974 2014_09_10_Agenda.docx
+10/02/2014  07:49 AM           609,233 2014_09_10_ComputerReplacementPPT.pdf
+09/11/2014  02:00 PM         1,863,692 2014_09_10_ipadlessonsandfuture.pdf
+10/02/2014  07:48 AM            29,396 2014_09_10_Summary.docx
+09/23/2014  03:14 PM            28,369 2014_09_10_Summarypi.docx
+10/10/2014  07:42 AM           307,671 2014_10_08Outreach.pptx
+10/01/2014  10:26 AM           118,457 2014_10_08_20132014Outsideactivitieslist.pdf
+10/03/2014  03:24 PM            18,596 2014_10_08_Agenda.docx
+10/13/2014  03:59 PM            20,820 2014_10_08_summary.docx
+10/03/2014  03:26 PM         4,899,902 2014_10_08_wayfindingdraft3.docx
+10/03/2014  03:25 PM         1,379,636 2014_10_08_wayfindingdraft3.pdf
+10/09/2014  01:57 PM         1,896,260 2014_10_08_WayfindingUpdate.pdf
+10/17/2014  01:00 PM            17,251 2014_10_22_Agenda.docx
+10/30/2014  11:51 AM       995,433,140 2014_10_22_Librariesmessagevideo.wmv
+10/30/2014  02:31 PM            22,764 2014_10_22_Summary.docx
+11/07/2014  08:34 AM            16,534 2014_11_12_Agenda.docx
+11/13/2014  01:50 PM           176,522 2014_11_12_ILSUpdate.pptx
+11/19/2014  09:54 AM            20,669 2014_11_12_Summary.docx
+01/13/2015  04:01 PM            17,593 2015_01_14_Agenda.docx
+01/09/2015  10:54 AM           122,346 2015_01_14_Datamatrix.xlsx
+01/09/2015  10:56 AM           871,936 2015_01_14_evalframework.doc
+01/14/2015  02:57 PM            19,573 2015_01_14_Facevaltimeline.docx
+01/09/2015  10:59 AM            34,569 2015_01_14_facperfmgmt.docx
+01/14/2015  05:55 PM           410,458 2015_01_14_LibsPerfMgmtCycle.pptx
+01/14/2015  02:59 PM            20,699 2015_01_14_proevalprocess.docx
+01/14/2015  02:19 PM            13,168 2015_01_14_SMARTgoals.pdf
+01/15/2015  04:13 PM            23,276 2015_01_14_Summary.docx
+01/14/2015  02:42 PM            96,962 2015_01_14_writingguideperfeval.pdf
+01/26/2015  03:14 PM            17,444 2015_01_28_Agenda.docx
+01/23/2015  10:47 AM            21,706 2015_01_28_AUfunctions.docx
+01/23/2015  10:44 AM            12,375 2015_01_28_outcomessurvey.xlsx
+01/28/2015  04:13 PM           145,281 2015_01_28_Researchplanningprocess.pptx
+02/17/2015  04:05 PM            21,584 2015_01_28_summary.docx
+01/23/2015  10:43 AM            16,392 2015_01_28_USonepage.xlsx
+02/18/2015  02:40 PM            16,555 2015_02_11_Agenda.docx
+02/18/2015  02:50 PM            20,796 2015_02_11_budgetrequestinstructions.docx
+02/18/2015  02:34 PM            22,866 2015_02_11_BudgetRequestListEquipmentFurniture.xlsx
+02/18/2015  02:36 PM            23,758 2015_02_11_onetimerequests.xlsx
+02/23/2015  03:49 PM            22,311 2015_02_11_summary.docx
+02/19/2015  01:52 PM            19,829 2015_02_25_Agenda.docx
+02/23/2015  11:29 AM            17,553 2015_02_25_Councilagendaex.docx
+02/23/2015  01:44 PM            17,895 2015_02_25_Directsbigprojectlist.docx
+02/19/2015  01:51 PM            24,785 2015_02_25_Fooddrinkpolicyrev.docx
+03/02/2015  10:20 AM            22,209 2015_02_25_summary.docx
+03/24/2015  10:35 AM            15,288 2015_03_25_Agenda.docx
+03/25/2015  12:37 PM         1,134,785 2015_03_25_development101.pptx
+03/24/2015  10:29 AM            24,019 2015_03_25_exhibitscharge.docx
+03/25/2015  12:41 PM            96,468 2015_03_25_selg.pptx
+03/25/2015  12:45 PM            37,038 2015_03_25_selgworkshopattendance.xlsx
+04/01/2015  04:00 PM            26,266 2015_03_25_summary.docx
+04/06/2015  09:42 AM            16,964 2015_04_08_Agenda.docx
+04/16/2015  03:22 PM           282,296 2015_04_08_HathiTrust.pdf
+04/16/2015  03:21 PM         2,189,486 2015_04_08_LibAnswers.pptx
+04/27/2015  10:21 AM            22,178 2015_04_08_Summary.docx
+04/06/2015  09:26 AM            73,266 2015_04_8_LibAnswersProject.pdf
+05/12/2015  10:12 AM            17,917 2015_05_13_Agenda.docx
+05/12/2015  10:02 AM           765,334 2015_05_13_Ithakapressurveys.pdf
+05/12/2015  09:43 AM            37,734 2015_05_13_LQLQLitecomparison.pdf
+05/14/2015  01:21 PM            99,173 2015_05_13_researchplpres.pdf
+05/12/2015  09:47 AM            76,349 2015_05_13_SP1617draft.pdf
+05/12/2015  09:42 AM            40,243 2015_05_13_SPassessitems.xlsx
+05/18/2015  10:19 AM            21,039 2015_05_13_summary.docx
+05/14/2015  01:09 PM           449,575 2015_05_13_Surveygrpppt.pdf
+05/22/2015  08:15 AM            15,995 2015_05_27_Agenda.docx
+05/22/2015  08:08 AM         1,532,317 2015_05_27_LeisureReading.docx
+05/22/2015  08:39 AM         1,207,650 2015_05_27_LeisureReading.pdf
+05/27/2015  01:12 PM        11,259,913 2015_05_27_LeisureReadingpresentation.pptx
+05/22/2015  08:11 AM        33,919,233 2015_05_27_MediaLabExpansionProp.pdf
+05/27/2015  01:16 PM         4,298,576 2015_05_27_spacepresentation.pdf
+05/29/2015  09:01 AM            24,015 2015_05_27_summary.docx
+06/23/2015  12:18 PM            22,832 2015_06_24SOMFoundLibDirdraft.docx
+06/22/2015  09:36 AM            15,610 2015_06_24_agenda.docx
+06/30/2015  02:41 PM            21,034 2015_06_24_summary.docx
+06/22/2015  08:42 AM           460,283 2015_06_24_Webcampus_Report.pdf
+10/29/2014  03:45 PM        16,131,153 councilmessage.pptx
+              88 File(s)  1,091,149,199 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY16
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+07/01/2015  02:24 PM            17,933 2015_07_08_agenda.docx
+07/14/2015  08:50 AM            24,348 2015_07_08_summary.docx
+08/06/2015  02:53 PM            18,179 2015_08_12_agenda.docx
+07/15/2015  03:57 PM            20,281 2015_08_12_FY15councilagendalist.docx
+08/04/2015  12:57 PM            17,007 2015_08_12_libgroups.docx
+08/21/2015  09:04 AM            17,379 2015_08_12_summary.docx
+09/08/2015  08:50 AM            35,997 2015_09_09_2014reviewwithdeancomments.docx
+09/08/2015  08:33 AM            16,982 2015_09_09_agenda.docx
+09/03/2015  02:33 PM         1,572,850 2015_09_09_councilagendasurveyresults.PDF
+09/11/2015  12:59 PM            20,540 2015_09_09_councilcomments.docx
+09/24/2015  10:10 AM            25,882 2015_09_09_summary.docx
+09/21/2015  09:05 AM            15,647 2015_09_23_agenda.docx
+09/21/2015  08:42 AM            98,861 2015_09_23_GoogleTaskForceSeptDraftCharge.pdf
+09/23/2015  10:10 AM           339,548 2015_09_23_Ithakasurvey.pptx
+02/11/2016  01:42 PM    <DIR>          2015_09_23_Ithakasurvey_files
+09/29/2015  09:19 AM            23,592 2015_09_23_summary.docx
+10/09/2015  02:20 PM            17,683 2015_10_14_agenda.docx
+10/09/2015  02:39 PM            22,519 2015_10_14_revcharge2.docx
+11/12/2015  02:44 PM           106,022 2015_10_14_summary.pdf
+10/09/2015  02:19 PM            16,608 2015_10_14_window10resources.docx
+10/14/2015  10:19 AM           722,642 2015_10_14_Windows10-Office2013.pptx
+10/28/2015  02:04 PM            16,918 2015_10_28_agenda.docx
+10/28/2015  03:19 PM           780,211 2015_10_28_OIThandout.pdf
+11/12/2015  02:45 PM            79,264 2015_10_28_summary.pdf
+11/16/2015  02:30 PM            17,667 2015_11_18_agenda.docx
+11/18/2015  02:11 PM            72,623 2015_11_18_dataframework.pdf
+11/16/2015  08:54 AM           341,897 2015_11_18_Libadmin3.pdf
+12/01/2015  10:49 AM            19,041 2015_11_18_summary.docx
+12/08/2015  03:31 PM            15,169 2015_12_09_Agenda.docx
+12/07/2015  08:29 AM            19,046 2015_12_09_CY15evaltimelineacadfac.docx
+12/07/2015  08:30 AM            17,942 2015_12_09_CY15evaltimelineprostaff.docx
+12/10/2015  09:03 AM           405,018 2015_12_09_LibsPerfMgmtCycle.pptx
+12/18/2015  10:39 AM            20,192 2015_12_09_summary_council.docx
+12/10/2015  10:29 AM           214,640 2015_12_09_Webprojupdate.pptx
+01/07/2016  02:57 PM            15,045 2016_01_13_agenda.docx
+01/07/2016  02:41 PM           950,452 2016_01_13_Ithakasurveyrptfac.pdf
+01/07/2016  02:41 PM         1,294,794 2016_01_13_Ithakasurveyrptgrad.pdf
+01/07/2016  02:42 PM         1,177,737 2016_01_13_Ithakasurveyrptundergrad.pdf
+01/22/2016  09:29 AM            62,671 2016_01_13_summary_council.pdf
+01/22/2016  05:23 PM            57,422 2016_01_27_agenda_council.pdf
+01/22/2016  04:43 PM           363,020 2016_01_27_AssessmentsforSF.xlsx
+01/28/2016  01:54 PM         4,999,219 2016_01_27_GoogleTFupdate.pdf
+02/05/2016  05:13 PM            13,730 2016_02_10_agenda.docx
+02/05/2016  05:04 PM            97,965 2016_02_10_AncillaryDocsBudget.pdf
+02/05/2016  04:57 PM           109,730 2016_02_10_EquipmentBudgetCalls.pdf
+02/05/2016  05:03 PM           108,757 2016_02_10_OneTimeBudgetCalls.pdf
+11/16/2015  02:14 PM    <DIR>          Bookmarks
+11/16/2015  02:19 PM    <DIR>          Connectors
+08/31/2015  02:56 PM            17,390 Council FY16 list of facilitators & agendas.docx
+09/28/2015  09:17 AM            17,569 Council FY16 list of meeting facilitators.docx
+09/28/2015  09:18 AM            18,141 Council FY16 schedule draft.docx
+11/16/2015  02:14 PM    <DIR>          Datasources
+02/11/2016  01:42 PM    <DIR>          Logs
+11/16/2015  02:19 PM    <DIR>          Mapsources
+11/16/2015  02:19 PM                50 Preferences.tps
+11/16/2015  02:19 PM    <DIR>          Services
+11/16/2015  02:19 PM    <DIR>          Shapes
+11/16/2015  02:14 PM    <DIR>          Styles
+11/16/2015  02:14 PM    <DIR>          Workbooks
+              49 File(s)     14,473,820 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY16\2015_09_23_Ithakasurvey_files
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+09/23/2015  10:08 AM           166,665 1168337930-projector_css_ltr.css
+09/23/2015  10:08 AM             8,010 3151464045-postmessagerelay.js
+09/23/2015  10:08 AM           750,802 768524048-projector_viewer.js
+09/23/2015  10:08 AM            13,244 api.js
+09/23/2015  10:08 AM            31,641 cb=gapi(1).loaded_0
+09/23/2015  10:08 AM           237,735 cb=gapi.loaded_0
+09/23/2015  10:08 AM            13,253 client.js
+09/23/2015  10:08 AM            68,179 core-rpc-shindig.random-shindig.sha1.js
+09/23/2015  10:08 AM             2,420 photo(1).jpg
+09/23/2015  10:08 AM             2,459 photo.jpg
+09/23/2015  10:08 AM               679 postmessageRelay.html
+09/23/2015  10:08 AM             8,258 proxy(1).html
+09/23/2015  10:08 AM             8,254 proxy.html
+              13 File(s)      1,311,599 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY16\Bookmarks
+
+11/16/2015  02:14 PM    <DIR>          .
+11/16/2015  02:14 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY16\Connectors
+
+11/16/2015  02:19 PM    <DIR>          .
+11/16/2015  02:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY16\Datasources
+
+11/16/2015  02:14 PM    <DIR>          .
+11/16/2015  02:14 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY16\Logs
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+11/20/2015  05:39 PM           826,289 log.txt
+11/20/2015  05:38 PM            46,476 tabprotosrv.txt
+11/20/2015  05:39 PM            74,239 tdeserver.txt
+               3 File(s)        947,004 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY16\Mapsources
+
+11/16/2015  02:19 PM    <DIR>          .
+11/16/2015  02:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY16\Services
+
+11/16/2015  02:19 PM    <DIR>          .
+11/16/2015  02:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY16\Shapes
+
+11/16/2015  02:19 PM    <DIR>          .
+11/16/2015  02:19 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY16\Styles
+
+11/16/2015  02:14 PM    <DIR>          .
+11/16/2015  02:14 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\council\FY16\Workbooks
+
+11/16/2015  02:14 PM    <DIR>          .
+11/16/2015  02:14 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\directs
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+09/28/2015  09:32 AM           634,755 2015_09_30_councilagendasurvey_rankings.pdf
+07/24/2013  02:27 PM               585 Catering orders - EA.lnk
+04/01/2015  04:01 PM               544 Council.lnk
+08/08/2014  08:25 AM            10,180 Council_agenda_from_Directs.xlsx
+11/19/2012  04:03 PM            15,832 directs_2008_07_14.docx
+08/08/2014  08:22 AM             9,962 Directs_agenda_from_Council.xlsx
+12/16/2015  04:03 PM            19,816 directs_mtgs_2015_12_16.docx
+01/04/2016  01:27 PM            76,248 directs_mtgs_2015_12_16.pdf
+10/03/2008  01:35 PM            12,950 directs_mtg_2008_07_14.docx
+10/06/2008  10:37 AM            14,579 directs_mtg_2008_08_04.docx
+09/12/2008  09:52 AM            19,458 directs_mtg_2008_09_08.docx
+10/03/2008  12:26 PM            12,231 directs_mtg_2008_09_15.docx
+10/03/2008  02:37 PM            14,388 directs_mtg_2008_09_22.docx
+10/20/2008  09:53 AM            17,205 directs_mtg_2008_10_13.docx
+01/06/2009  02:01 PM            14,674 directs_mtg_2008_10_27.docx
+08/11/2009  02:12 PM        25,066,854 directs_mtg_2008_12_08.bmp
+01/14/2009  10:27 AM            11,568 directs_mtg_2009_01_05.docx
+01/16/2009  09:45 AM            16,004 directs_mtg_2009_01_12.docx
+02/18/2009  03:07 PM            12,565 directs_mtg_2009_01_28.docx
+02/19/2009  01:34 PM            13,083 directs_mtg_2009_02_04.docx
+03/10/2009  12:49 PM            13,670 directs_mtg_2009_02_23.docx
+06/30/2009  09:16 AM            13,884 directs_mtg_2009_04_27.docx
+06/26/2009  07:31 AM            13,518 directs_mtg_2009_06_15.docx
+07/22/2009  03:05 PM            12,103 directs_mtg_2009_07_20.docx
+08/17/2009  07:52 AM            14,779 directs_mtg_2009_07_27.docx
+08/06/2009  08:30 AM            12,192 directs_mtg_2009_08_03.docx
+08/31/2009  03:46 PM            12,341 directs_mtg_2009_08_24.docx
+09/08/2009  08:32 AM            12,808 directs_mtg_2009_08_31..docx
+09/08/2009  08:31 AM            12,809 directs_mtg_2009_08_31.docx
+09/29/2009  07:29 AM            16,026 directs_mtg_2009_09_21.docx
+09/29/2009  01:34 PM            10,710 directs_mtg_2009_09_28.docx
+10/20/2009  02:26 PM            14,733 directs_mtg_2009_10_12.docx
+11/02/2009  08:57 AM            14,375 directs_mtg_2009_10_26.docx
+11/19/2009  08:46 AM            17,546 directs_mtg_2009_11_09.docx
+12/03/2009  01:32 PM            14,663 directs_mtg_2009_11_30.docx
+12/16/2009  05:01 PM            11,255 directs_mtg_2009_12_14.docx
+01/13/2010  04:06 PM            18,689 directs_mtg_2010_01_11.docx
+02/01/2010  09:46 AM            15,889 directs_mtg_2010_01_25.docx
+03/19/2010  02:34 PM            14,161 directs_mtg_2010_03_08.docx
+04/06/2010  10:54 AM            16,562 directs_mtg_2010_03_29.docx
+04/20/2010  07:33 AM            11,696 directs_mtg_2010_04_05.docx
+05/12/2010  12:49 PM            11,697 directs_mtg_2010_05_10.docx
+06/04/2010  09:43 AM            17,313 directs_mtg_2010_05_24.docx
+07/16/2010  01:12 PM            13,123 directs_mtg_2010_06_07.docx
+07/19/2010  07:55 AM            11,084 directs_mtg_2010_07_12.docx
+07/20/2010  07:15 AM            13,045 directs_mtg_2010_07_19.docx
+08/09/2010  09:57 AM            15,311 directs_mtg_2010_07_28.docx
+09/15/2010  11:26 AM            20,250 directs_mtg_2010_09_01.docx
+09/30/2010  10:19 AM            12,225 directs_mtg_2010_09_22.docx
+11/08/2010  04:22 PM            14,725 directs_mtg_2010_10_06.docx
+11/09/2010  11:12 AM            18,639 directs_mtg_2010_10_20.docx
+11/08/2010  03:40 PM            13,212 directs_mtg_2010_10_27.docx
+01/06/2011  09:31 AM            16,062 directs_mtg_2010_12_15.docx
+01/19/2011  03:02 PM            11,677 directs_mtg_2011_01_19.docx
+04/19/2011  01:47 PM            11,227 directs_mtg_2011_03_23.docx
+04/07/2011  08:14 AM            12,795 directs_mtg_2011_04_06.docx
+04/25/2011  08:49 AM            19,755 directs_mtg_2011_04_20.docx
+05/18/2011  09:53 AM            13,652 directs_mtg_2011_05_04.docx
+06/21/2011  08:50 AM            22,730 directs_mtg_2011_06_15.docx
+06/21/2011  08:52 AM            22,740 directs_mtg_2011_06_16.docx
+07/26/2011  02:28 PM            11,648 directs_mtg_2011_07_06.docx
+08/30/2011  09:00 AM            11,389 directs_mtg_2011_08_17.docx
+08/31/2011  12:42 PM            15,182 directs_mtg_2011_08_24.docx
+09/21/2011  08:08 AM            14,452 directs_mtg_2011_09_07.docx
+09/30/2011  08:23 AM            17,019 directs_mtg_2011_09_28.docx
+10/25/2011  10:08 AM            15,391 directs_mtg_2011_10_19.docx
+12/07/2011  01:31 PM            15,412 directs_mtg_2011_11_23.docx
+12/13/2011  11:19 AM            14,526 directs_mtg_2011_12_7.docx
+02/01/2012  01:37 PM            15,561 directs_mtg_2012_02_01.docx
+06/08/2012  10:25 AM            15,651 directs_mtg_2012_06_06.docx
+08/17/2012  09:29 AM            13,962 directs_mtg_2012_07_25.docx
+09/14/2012  10:46 AM            21,506 directs_mtg_2012_09_05.docx
+10/01/2012  02:30 PM            14,683 directs_mtg_2012_09_19.docx
+10/03/2012  10:15 AM            13,786 directs_mtg_2012_09_26.docx
+10/18/2012  10:20 AM            19,228 directs_mtg_2012_10_17.docx
+11/19/2012  04:16 PM            18,112 directs_mtg_2012_11_07.docx
+11/19/2012  04:20 PM            81,434 directs_mtg_2012_11_07.pdf
+01/17/2013  02:22 PM            20,422 directs_mtg_2012_11_28.docx
+12/17/2012  09:29 AM            22,746 directs_mtg_2012_12_05.docx
+12/17/2012  09:38 AM            22,593 directs_mtg_2012_12_05F.docx
+01/08/2013  02:24 PM            19,464 directs_mtg_2012_12_19.docx
+01/28/2013  04:18 PM            19,097 directs_mtg_2013_01_16.docx
+01/23/2013  02:39 PM            16,205 directs_mtg_2013_01_23.docx
+02/07/2013  09:25 AM            15,615 directs_mtg_2013_01_30.docx
+02/13/2013  01:31 PM            16,023 directs_mtg_2013_02_06.docx
+03/08/2013  02:55 PM            20,833 directs_mtg_2013_03_06.docx
+03/27/2013  09:33 AM            15,641 directs_mtg_2013_03_13.docx
+03/27/2013  07:54 AM            84,443 directs_mtg_2013_03_20.pdf
+04/19/2013  07:58 AM            35,093 directs_mtg_2013_03_27.docx
+05/01/2013  01:44 PM            15,251 directs_mtg_2013_04_17.docx
+05/01/2013  01:42 PM            17,230 directs_mtg_2013_04_24.docx
+05/13/2013  08:51 AM            19,884 directs_mtg_2013_05_01.docx
+07/03/2013  03:31 PM            16,852 directs_mtg_2013_05_22.docx
+06/11/2013  08:35 AM            24,165 directs_mtg_2013_06_05.docx
+07/22/2013  07:54 AM            19,978 directs_mtg_2013_07_17.docx
+08/12/2013  07:32 AM            17,017 directs_mtg_2013_07_31.docx
+08/08/2013  04:49 PM            16,149 directs_mtg_2013_08_07.docx
+09/11/2013  07:39 AM            23,051 directs_mtg_2013_09_04.docx
+09/25/2013  07:42 AM            19,152 directs_mtg_2013_09_18.docx
+10/07/2013  01:12 PM            15,458 directs_mtg_2013_10_02.docx
+10/24/2013  11:21 AM            13,584 directs_mtg_2013_10_16.docx
+11/12/2013  10:15 AM            16,245 directs_mtg_2013_10_30.docx
+11/25/2013  11:26 AM            21,417 directs_mtg_2013_11_06.docx
+01/23/2014  08:52 AM            25,067 directs_mtg_2013_11_20(1).docx
+12/11/2013  11:50 AM            28,489 directs_mtg_2013_11_20.docx
+12/18/2013  10:28 AM            15,912 directs_mtg_2013_12_04.docx
+01/22/2014  03:21 PM            17,803 directs_mtg_2014_01_15.docx
+02/10/2014  04:41 PM            13,968 directs_mtg_2014_01_29.docx
+02/10/2014  04:47 PM            15,482 directs_mtg_2014_02_05.docx
+04/11/2014  07:45 AM            16,117 directs_mtg_2014_03_18.docx
+04/28/2014  08:40 AM            22,604 directs_mtg_2014_04_16(2).docx
+04/29/2014  07:26 AM            22,597 directs_mtg_2014_04_16(3).docx
+04/28/2014  07:52 AM            22,630 directs_mtg_2014_04_16.docx
+05/01/2014  03:00 PM            19,493 directs_mtg_2014_04_30.docx
+05/22/2014  03:35 PM            14,172 directs_mtg_2014_05_07.docx
+05/29/2014  02:14 PM            15,669 directs_mtg_2014_05_21.docx
+08/15/2014  03:39 PM            16,182 directs_mtg_2014_06_18.docx
+07/31/2014  02:27 PM            19,033 directs_mtg_2014_07_30.docx
+08/21/2014  08:36 AM            15,574 directs_mtg_2014_08_20.docx
+09/26/2014  03:36 PM            17,115 directs_mtg_2014_09_17.docx
+12/03/2014  09:10 AM            23,791 directs_mtg_2014_11_19.docx
+03/02/2015  10:33 AM            21,003 directs_mtg_2015_02_18.docx
+03/06/2015  05:31 PM            20,003 directs_mtg_2015_03_04.docx
+03/20/2015  03:10 PM            20,235 directs_mtg_2015_03_18.docx
+04/01/2015  12:13 PM            20,730 directs_mtg_2015_04_01.docx
+04/16/2015  09:49 AM            19,438 directs_mtg_2015_04_15.docx
+05/12/2015  12:30 PM            15,642 directs_mtg_2015_04_29.docx
+05/20/2015  03:26 PM            15,893 directs_mtg_2015_05_06.docx
+05/29/2015  09:08 AM            15,410 directs_mtg_2015_05_20.docx
+06/23/2015  09:04 AM            18,289 directs_mtg_2015_06_17.docx
+07/16/2015  04:05 PM            18,633 directs_mtg_2015_07_15.docx
+07/30/2015  12:30 PM            18,197 directs_mtg_2015_07_29.docx
+08/27/2015  03:57 PM            70,328 directs_mtg_2015_08_19.pdf
+09/11/2015  09:20 AM            19,684 directs_mtg_2015_09_02.docx
+10/08/2015  10:06 AM            16,896 directs_mtg_2015_09_30.docx
+10/16/2015  12:41 PM           190,550 directs_mtg_2015_10_07.pdf
+10/29/2015  07:36 AM            21,111 directs_mtg_2015_10_21.docx
+11/05/2015  04:06 PM            95,327 directs_mtg_2015_10_21.pdf
+12/11/2015  08:16 AM           113,310 directs_mtg_2015_12_2.pdf
+01/15/2016  09:46 AM            57,985 directs_mtg_2016_01_06.pdf
+02/01/2012  01:32 PM            15,545 direct_mtg_2012_02_01.docx
+01/29/2013  03:59 PM            20,857 one_time_requests_January_2013.xlsx
+             142 File(s)     28,638,466 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\ESC
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+07/16/2013  09:52 AM            39,936 Catering_Budget_Guidelines.doc
+07/09/2013  08:41 AM            40,448 Estimated_catering_cost_pp_by_event_type.doc
+08/06/2013  07:50 AM            29,696 Event_Proposal_Guidelines.doc
+02/08/2016  12:58 PM            48,128 Master_Calendar.doc
+06/18/2014  03:52 PM            53,248 Master_Calendar_2013_2014.doc
+04/08/2015  12:52 PM            45,568 Master_Calendar_2014_2015.doc
+09/29/2015  07:51 AM            42,496 Master_Calendar_2015_2016.doc
+               7 File(s)        299,520 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\FlexSched_Templates
+
+02/11/2016  01:42 PM    <DIR>          .
+02/11/2016  01:42 PM    <DIR>          ..
+01/19/2016  02:55 PM            30,208 1_Flex_Classified2014Template.doc
+01/19/2016  02:55 PM            30,720 1_Flex_Faculty2015_Template.doc
+               2 File(s)         60,928 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\forms_templates
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+04/03/2012  10:39 AM            28,160 All_Staff_Discontinue_FLEX_Template2012.doc
+01/16/2008  02:31 PM            38,912 budget_call_computer_equip_software_form.doc
+01/04/2007  02:35 PM            31,744 budget_call_facilities_renovation.doc
+01/16/2008  02:36 PM            31,744 budget_call_furniture_and_equipment.doc
+01/04/2007  02:32 PM            34,816 budget_call_new_initiatives.doc
+01/04/2007  02:36 PM            29,696 budget_call_training.doc
+01/15/2013  02:18 PM           196,503 Deed_of_Gift_TEMPLATE_revJan2013.docx
+06/29/2012  02:43 PM            17,246 Deed_of_Gift_TEMPLATE_revJuly2012.docx
+11/17/2014  02:42 PM           195,488 Deed_of_Gift_TEMPLATE_under100KNov2014.docx
+07/17/2006  09:44 AM            24,064 Envelope Template.doc
+11/16/2012  04:23 PM           108,544 faculty_annual_work_report_library_version.doc
+02/27/2008  10:26 AM           102,400 fac_eval_tenured_2007.doc
+01/16/2009  10:13 AM           102,912 fac_eval_tenured_2008.doc
+11/17/2009  02:30 PM           102,912 fac_eval_tenured_2009.doc
+11/19/2010  11:13 AM           102,912 fac_eval_tenured_2010.doc
+02/23/2012  12:02 PM           101,888 fac_eval_tenured_2011.doc
+11/16/2012  02:12 PM           100,864 fac_eval_tenured_2012.doc
+02/24/2010  04:14 PM           249,344 fac_eval_tenure_track1_2009.doc
+02/27/2008  10:25 AM           108,544 fac_eval_tenure_track_2007.doc
+01/16/2009  10:13 AM           108,544 fac_eval_tenure_track_2008.doc
+01/27/2010  01:12 PM           249,344 fac_eval_tenure_track_2009.doc
+02/22/2011  09:57 AM           249,856 fac_eval_tenure_track_2010.doc
+02/23/2012  12:00 PM            95,744 fac_eval_tenure_track_2011.doc
+11/16/2012  02:17 PM            94,720 fac_eval_tenure_track_2012.doc
+02/06/2007  04:29 PM             8,055 index.html
+07/28/2007  03:14 PM             1,399 index.php
+07/17/2006  09:44 AM            31,744 labels blank sheet.doc
+12/18/2015  10:26 AM            19,101 Libraries2016TimelineCY15Acadfacevals6.docx
+12/18/2015  10:15 AM            17,810 Libraries2016timelineCY15prostaff.docx
+01/29/2013  09:23 AM           198,333 Libraries_Events_2012_-_2013rev10.docx
+07/17/2006  09:44 AM           508,376 LiedLogo.tif
+07/17/2006  09:44 AM            32,768 Merit App Pro Staff.doc
+07/17/2006  09:44 AM            27,648 NonaffiliatedUserAgreement.doc
+08/06/2008  09:25 AM            48,128 Professional staff evaluation.doc
+10/16/2006  12:01 PM            40,448 recommendation_for_new_appointment.doc
+02/11/2016  01:43 PM    <DIR>          SearchCommitteeForms
+07/17/2006  09:44 AM            34,816 Staff Development Reimbursement Request.doc
+07/17/2006  09:44 AM            46,080 Student Employment Application Summer-2006.doc
+07/06/2012  03:49 PM            14,196 Student Time Sheets.xlsx
+04/17/2012  12:31 PM           140,586 Training_Travel_Request_Form4_16_12E.pdf
+04/05/2012  09:48 AM           140,000 Training_Travel_Request_Form_E.pdf
+11/16/2010  02:58 PM            27,136 Travel Request Worksheet.doc
+05/10/2013  10:32 AM           133,142 UNLV_Libraries_Video-Talent_Release_Form.pdf
+01/16/2013  01:56 PM            19,459 UNLV_Libs_Deed_of_Gift_procedure_-_revJan2013.docx
+01/17/2013  10:27 AM            19,515 UNLV_Libs_Deed_of_Gift_procedure_revJan2013.docx
+11/04/2014  03:01 PM            22,364 UNLV_Libs_Deed_of_Gift_procedure_revNov2014.docx
+09/20/2006  12:25 PM            32,768 Vehicle Rental Form.doc
+10/02/2006  11:43 AM            44,055 Vehicle Rental Form.pdf
+05/08/2012  12:12 PM            12,734 Volunteer 2010-Parent-Guardian Release.pdf
+02/11/2016  01:43 PM    <DIR>          _notes
+02/24/2010  02:42 PM               162 ~$c_eval_tenure_track1_2009.doc
+02/23/2010  04:36 PM               162 ~$c_eval_tenure_track_2009.doc
+              50 File(s)      4,127,886 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\forms_templates\SearchCommitteeForms
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+07/28/2007  03:14 PM             1,399 index.php
+10/16/2006  12:07 PM            32,768 recommendation_for_closing_failed_search.doc
+12/05/2013  04:19 PM           604,999 SearchCommitteReimbursementForm_E_12-13.pdf
+11/06/2012  02:18 PM            48,640 University Libraries Recommendation for New Hire Form_Template_2012.doc
+02/11/2016  01:43 PM    <DIR>          _notes
+               4 File(s)        687,806 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\forms_templates\SearchCommitteeForms\_notes
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+10/16/2006  12:07 PM               235 recommendation_for_closing_failed_search.doc.mno
+10/16/2006  12:07 PM               235 recommendation_for_new_appointment.doc.mno
+               2 File(s)            470 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\forms_templates\_notes
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+02/05/2007  02:50 PM               235 index.html.mno
+               1 File(s)            235 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+04/05/2012  01:05 PM            82,432 12_2011Qualifying Shift Differential.doc
+06/22/2010  03:50 PM           100,534 1NPD-15Instructions02-09.pdf
+08/20/2009  08:32 AM            32,768 2009 Extra-Contractual_Compensation_Request_Worksheet.xls
+01/17/2012  04:31 PM           141,824 2012_NPD-14 WPS.doc
+01/11/2012  02:17 PM            82,432 2012_Qualifying Shift Differential.doc
+12/04/2015  11:45 AM           215,907 4_12BusinessCardFormENABLE.pdf
+04/08/2013  08:47 AM            47,104 4_2013 shift diff.xls
+09/12/2013  01:41 PM         1,832,342 Academic-Handbook-2013-2014.pdf
+07/24/2013  10:57 AM            74,321 CatastrophicNPD-25NoticeofIntenttoDonateLeavePDF11-2012(1).pdf
+01/23/2013  08:20 AM            64,838 CatastrophicRequest_DrStatement_PAY-23CE.pdf
+02/11/2016  01:43 PM    <DIR>          Classified E-E-EpaidPlan
+03/26/2009  08:12 AM         2,308,096 Classified Leave Guidelines.doc
+01/20/2012  11:36 AM    <DIR>          ClassifiedPenalties
+09/05/2012  12:44 PM           130,560 COI-COS-DisclosureForm_2012.doc
+11/21/2012  03:59 PM            17,402 CSA Meeting May 11, 2012.docx
+11/21/2012  04:06 PM            13,714 CSASurveyResults Classified 6_18_12.docx
+12/03/2015  02:53 PM                 0 debug.log
+01/14/2011  08:38 AM            24,064 Emergency Contact Information Form_1-10-2011.doc
+02/11/2016  01:43 PM    <DIR>          EvaluationFormClass
+10/02/2009  10:33 AM           100,534 EvlauationInstructions03-09.pdf
+08/04/2009  07:14 AM            47,616 Extra-Contractual_Compensation_Request_Form.doc
+02/13/2013  08:08 AM         1,295,314 FAC-PRO_2012-2013-handbook.pdf
+02/11/2016  01:43 PM    <DIR>          Faculty_ProEvalForms
+02/11/2016  01:43 PM    <DIR>          FinancialAidPwrpnt
+02/11/2016  01:43 PM    <DIR>          FinanicialAidForms
+02/11/2016  01:43 PM    <DIR>          Furlough
+11/22/2011  09:18 AM            35,328 HolidayPayrollForm11_2011.xls
+01/17/2013  01:05 PM         9,099,154 ileaveguidefacultyandstaff.pdf
+02/11/2016  01:43 PM    <DIR>          LOA JobPostings
+04/29/2009  10:11 AM            35,328 MotorPool- DAILY VEHICLE FORM.xls
+03/29/2012  01:23 PM           141,312 NPD-14 WPS_3_12.doc
+06/26/2012  03:31 PM            88,576 NPD-19_11-12.doc
+02/11/2016  01:43 PM    <DIR>          OnBoardingDocuments
+02/11/2016  01:43 PM    <DIR>          OrgCharts-Temp
+02/14/2012  03:20 PM            45,568 ProEvaluation.doc
+04/01/2009  07:41 AM            96,768 REPORT_OF_OVERTIME-1.doc
+02/11/2016  01:43 PM    <DIR>          SELG
+04/05/2012  12:24 PM            91,287 ShiftDiffChart12-2011.pdf
+02/11/2016  01:43 PM    <DIR>          StudentAd
+11/21/2012  01:00 PM             9,776 Timesheet_DueDates_2013.pdf
+02/11/2016  01:43 PM    <DIR>          Training Advisory Committee
+02/11/2016  01:43 PM    <DIR>          Training Presentation Archives
+02/11/2016  01:43 PM    <DIR>          Training Task Force 2009
+02/11/2016  01:43 PM    <DIR>          TravelForms
+02/11/2016  01:43 PM    <DIR>          Volunteer
+06/30/2009  08:07 AM            19,438 VOLUNTEERAGREEMENT.pdf
+10/02/2009  10:04 AM           142,336 WPSFORM.doc
+10/02/2009  09:53 AM           183,200 WPSinstructions.pdf
+              31 File(s)     16,599,873 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources\Classified E-E-EpaidPlan
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+09/04/2013  07:03 AM            10,099 Employer-Employeepaid-Plan-07-08-13.pdf
+09/04/2013  07:04 AM            10,017 Employer-Paid-ContributionPlan-07-08-13.pdf
+               2 File(s)         20,116 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources\ClassifiedPenalties
+
+01/20/2012  11:36 AM    <DIR>          .
+01/20/2012  11:36 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources\EvaluationFormClass
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+09/06/2013  03:50 PM           364,032 2_NPD-14 WPS_3_12.doc
+07/15/2013  09:25 AM           105,204 ClassifedEvaluation_7-2013.pdf
+07/15/2013  09:25 AM            74,390 Instructions_EvalForm-7-2013.pdf
+06/13/2014  08:10 AM            96,485 NPD-14DevelopingWPS_InstructionsPDF.pdf
+07/17/2013  01:21 PM            55,672 NPD-15EEAppraisalDev70113.docx
+               5 File(s)        695,783 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources\Faculty_ProEvalForms
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+01/27/2015  02:11 PM         3,087,035 2014_AcademicProvost-AcadFacultyAnnualEvalForm.pdf
+01/27/2015  02:11 PM         2,887,482 2014_Provost-AdminAnnualEvaluationForm.pdf
+08/24/2015  02:02 PM            18,099 Academic Faculty Evaluation Procedure Overview and 2015 Timeline (1).docx
+08/24/2015  02:00 PM            17,976 Academic Faculty Evaluation Procedure Overview and 2015 Timeline.docx
+02/02/2015  11:10 AM            59,904 HR-Forms-AdiministrativeFacultyPerformanceEvaluation.doc
+07/31/2015  02:42 PM           240,640 HR-Forms-NonAcadPerformanceEvaluation.doc
+07/31/2015  02:37 PM            86,016 HR-Forms-PDQ-Professional.doc
+08/24/2015  02:00 PM           123,894 Provost-AnnualAchievementReportInstructions.pdf
+               8 File(s)      6,521,046 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources\FinancialAidPwrpnt
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+11/24/2015  09:04 AM           358,544 2015_Final_Financial Aid Library Presentation (1).pdf
+11/24/2015  09:11 AM             1,669 2015_Final_Financial Aid Library Presentation (1).pdf - Shortcut.lnk
+               2 File(s)        360,213 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources\FinanicialAidForms
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+12/10/2015  09:01 AM           261,904 FallWorkstudyHandout2015.pdf
+03/25/2014  08:31 AM           138,496 FinAid-SummerApplication1314.pdf
+03/25/2014  08:33 AM            61,160 SummerWorkStudyIntentEnrollFall2014.docx
+               3 File(s)        461,560 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources\Furlough
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+05/28/2014  12:26 PM           153,600 2014ClassifiedFurloughFormJuly-Dec.doc
+11/25/2013  10:38 AM            16,493 2014_ClassifiedFurloughFormJan14-June14.pdf
+05/10/2012  03:52 PM            84,480 CLASSIFIED FURLOUGH FORM JULY - DECEMBER_Final.doc
+06/16/2009  08:33 AM            24,040 CLASSIFIEDFURLOUGHFORM.pdf
+12/03/2012  02:23 PM           162,304 ClassifiedFurloughFormJan13-June13.doc
+11/18/2014  08:03 AM           153,088 ClassifiedFurloughFormJan15-June15.doc
+05/10/2012  10:36 AM            83,968 ClassifiedFurloughFormJuly-Dec12.doc
+06/13/2013  12:22 PM            17,542 ClassifiedFurloughFormJuly-Dec13.pdf
+06/16/2009  08:32 AM           177,882 ClassifiedPPT6-12-09.pdf
+06/28/2011  12:42 PM            55,689 FurloughFAQ7-2011.pdf
+07/07/2011  10:42 AM            51,712 Guidelines for Faculty Unpaid Leave.doc
+07/08/2009  12:41 PM            28,701 instructions.pdf
+07/08/2009  12:41 PM            28,657 unpaidleave-chairs-assoc-deans.pdf
+07/08/2009  12:41 PM            29,954 unpaidleave-faculty-prostaff.pdf
+              14 File(s)      1,068,110 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources\LOA JobPostings
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+06/09/2015  07:53 AM           105,412 6-8-15aspace_loa_programmer_job.docx
+               1 File(s)        105,412 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources\OnBoardingDocuments
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+12/23/2014  10:31 AM            16,929 12-2014_New Employee Accounts List_updated.xlsx
+08/20/2015  03:10 PM            17,969 First Day Agenda for New Staff Members_Updated_8-20-15.docx
+10/23/2015  12:40 PM           331,103 HR-BusinessOperationsGuide-2015.pdf
+05/06/2014  02:24 PM            16,955 NewEmployeeAccountsList_4_2014.xlsx
+               4 File(s)        382,956 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources\OrgCharts-Temp
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+05/06/2010  01:08 PM            22,275 Library Administration_Draft_5-6-10.pdf
+               1 File(s)         22,275 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources\SELG
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+02/11/2016  01:43 PM    <DIR>          MinutesSELG
+02/11/2016  01:43 PM    <DIR>          StudentProfessionalismWorkGroup
+02/11/2016  01:43 PM    <DIR>          SupvervisorMeeting
+               0 File(s)              0 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources\SELG\MinutesSELG
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+02/11/2016  01:43 PM    <DIR>          2009-2011Minutes
+02/11/2016  01:43 PM    <DIR>          2011-2013
+02/11/2016  01:43 PM    <DIR>          2014
+02/11/2016  01:43 PM    <DIR>          2015
+06/24/2015  09:07 AM    <DIR>          2016
+               0 File(s)              0 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources\SELG\MinutesSELG\2009-2011Minutes
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+11/12/2009  09:36 AM            23,552 11-3-09STUDENT LEADERSHIP GROUP_Minutes.doc
+03/15/2011  01:29 PM            28,672 2SELG March 2 2011.doc
+10/07/2009  07:59 AM            35,840 Mtg Notes9-29-09.doc
+08/09/2010  10:08 AM            25,088 S minutes 072810.doc
+10/18/2011  10:07 AM            30,208 SELG Meeting Minutes 09.29.11 finalized.doc
+10/18/2011  03:40 PM            27,648 SELG Meeting Minutes 10-12-11.doc
+11/02/2011  08:53 AM            30,208 SELG Meeting Minutes 10-26-2011.doc
+01/25/2011  10:57 AM            13,655 SELG Meeting Minutes 12-14-10.docx
+07/08/2010  09:52 AM            28,672 SELG Meeting Minutes_ 1_6-22-10.doc
+01/25/2011  02:26 PM            27,648 SELG Meeting Notes 11-24-10.doc
+02/06/2011  05:25 PM            18,251 SELG Meeting Notes Jan- 26-11.docx
+04/05/2011  10:19 AM            26,112 SELG Minutes 032311.doc
+06/08/2011  08:11 AM            25,088 SELG Minutes 05-25-11.doc
+07/07/2011  10:31 AM            24,064 SELG Minutes 06-21-11.doc
+08/15/2011  01:44 PM            28,160 SELG Minutes 6-22-2011.doc
+09/27/2011  10:20 AM            25,600 SELG Minutes 9-14-11.doc
+11/18/2011  11:06 AM            26,112 SELG Minutes_11-16-11.doc
+09/01/2009  06:59 AM            23,552 SELG notes Aug. 4.doc
+05/25/2010  07:19 AM            28,160 SELGminutes 040610.doc
+05/09/2011  01:57 PM            30,720 SELGminutes_4-25-11.doc
+11/05/2010  03:52 PM            35,328 SELG_ Minutes October_ Final_11-5-10.doc
+02/08/2010  03:45 PM            26,624 SELG_Feb0210Minutes_FINAL.doc
+01/22/2010  12:50 PM            12,753 SELG_Jan0510minutes.docx
+09/15/2010  03:39 PM            35,328 SELG_Minutes 8-25-10-1.doc
+03/08/2011  04:01 PM            28,672 SELG_minutes Mar-2-2011.doc
+10/13/2009  07:11 AM            24,064 SELG_minutes_10_06_09.doc
+01/13/2014  11:14 AM            16,322 SELG_Minutes_4_27_11.docx
+09/02/2011  12:34 PM            30,208 SELG_Minutes_8-24-2011.doc
+09/30/2010  11:34 AM            13,885 SELG_Sept10 SELG minutes.docx
+              29 File(s)        750,194 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources\SELG\MinutesSELG\2011-2013
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+07/03/2013  10:19 AM            18,838 6-26-13 SELG Minutes.docx
+08/08/2013  07:37 AM            24,975 August 2013 Supervisor meeting Minutes.docx
+01/13/2014  09:42 AM            24,568 DRAFT 2 December 2013 Minutes.docx
+10/24/2013  03:42 PM            19,969 SELG Meeting Minutes 10- 23-2013.docx
+04/11/2012  02:38 PM            16,735 SELG Meeting Minutes 2-1-2012.docx
+03/20/2013  12:48 PM            18,113 SELG Meeting Minutes 2-20-13.docx
+03/03/2014  02:53 PM            26,859 SELG Meeting Minutes 2-2014 Minutes.docx
+08/07/2013  07:34 AM            27,214 SELG Meeting Minutes 7-2013.docx
+10/04/2013  07:26 AM            23,880 SELG Meeting Minutes 8-2013.docx
+10/01/2013  12:42 PM            23,997 SELG Meeting Minutes 9-25- 2013 Minutes.docx
+01/31/2013  03:56 PM            19,897 SELG Meeting Minutes January 24, 2013.docx
+11/27/2012  01:34 PM            31,894 SELG MeetingMinutes_October 24_12 (2).docx
+12/10/2012  11:03 AM            20,451 SELG Minutes 11-28-12.docx
+01/10/2012  02:26 PM            15,748 SELG Minutes 12-07-11.docx
+05/01/2012  01:34 PM            16,608 SELG Minutes 4-25.docx
+07/02/2013  09:13 AM            23,521 SELG Minutes 5-2013.docx
+05/25/2012  07:52 AM            15,704 SELG Minutes 5-23-12.docx
+01/22/2013  02:41 PM            21,468 SELG Minutes January 16 2013.docx
+04/10/2013  10:09 AM            23,562 SELG Minutes March-2013.docx
+01/20/2012  08:09 AM            17,496 SELG Minutes_ 1-19-12 .docx
+12/18/2012  04:12 PM            15,604 SELG MINUTES_12_12_12.docx
+01/15/2014  02:18 PM            22,229 SELG_Meeting Minutes_11- 20 2013_Final.docx
+04/13/2012  07:48 AM            17,794 SELG_Minutes 4_11_12.docx
+10/09/2012  07:32 AM            18,350 SELG_Minutes 9_26_12.docx
+04/11/2012  02:33 PM            19,528 SELG_Minutes_1-24-12_.docx
+04/12/2012  07:38 AM            18,398 SELG_Minutes_3_6_12.docx
+05/09/2014  02:59 PM            28,899 SELG_Minutes_4_23_14.docx
+07/18/2012  07:16 AM            19,438 SELG_Minutes_6-27-12_.docx
+08/28/2012  12:41 PM            30,963 SELG_Minutes_7- 25 2012.docx
+09/27/2012  12:44 PM            23,684 SELG_Minutes_8-_22_2012.docx
+10/01/2013  12:41 PM            23,989 September 2013 Minutes.docx
+06/07/2012  03:43 PM            30,407 Student Assistant Supervisor Meeting_6-7-12.docx
+09/16/2009  01:05 PM            24,064 STUDENT LEADERSHIP_notes9_1_09.doc
+              33 File(s)        724,844 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources\SELG\MinutesSELG\2014
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+04/24/2014  03:34 PM            18,075 April 15 2014 SupervisorMeeting Minutes.docx
+09/05/2014  12:17 PM            26,379 August 26 2014 Minutes.docx
+09/05/2014  12:48 PM            29,317 August 6 2014 Meeting Minutes.docx
+01/24/2014  10:45 AM            24,447 January 2014 Minutes.docx
+07/09/2014  12:59 PM            28,252 June 25 2014 Minutes.docx
+03/18/2014  01:25 PM            25,901 March 6 2014 Minutes.docx
+06/04/2014  12:14 PM            29,932 May 28 2014 Minutes.docx
+12/04/2014  11:40 AM            18,882 November 19 2014Minutes.docx
+10/22/2014  08:21 AM            30,803 October 1 2014 Minutes.docx
+11/04/2014  08:49 AM            31,110 October222014MeetingMinutesdocx.docx
+              10 File(s)        263,098 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources\SELG\MinutesSELG\2015
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+01/11/2016  08:22 AM           209,972 11-24-15 SELGMeetingMinutes.pdf
+10/23/2015  01:07 PM           155,130 SELG Meeting Minutes 10-20-15 (1).pdf
+01/11/2016  11:09 AM           130,625 SELG Meeting Minutes 12_2015.pdf
+04/06/2015  01:36 PM            30,076 SELG Meeting Minutes 3-25-15.docx
+06/11/2015  08:44 AM            31,551 SELG Meeting Minutes 5-27-15.docx
+09/02/2015  01:38 PM            33,111 SELG Meeting Minutes 8-26-15 .docx
+04/28/2015  07:53 AM            31,602 SELG Meeting Minutes April 16-2015.docx
+04/21/2015  09:20 AM            29,515 SELG Meeting Minutes April-715.docx
+10/20/2015  02:24 PM            19,228 SELG Meeting Minutes September-24-15.docx
+03/05/2015  08:10 AM            32,187 SELG Meeting Minutes _February-25-15.docx
+08/04/2015  10:45 AM            31,010 SELG Meeting Minutes_ July 15_15 .docx
+05/19/2015  09:56 AM            33,078 SELG Meeting Minutes_April 22-2015.docx
+02/05/2015  03:37 PM            32,150 SELG Meeting Minutes_January 29_15.docx
+07/15/2015  08:36 AM            30,792 SELG Meeting Minutes_June 24_15 .docx
+06/24/2015  08:17 AM            30,476 SELG Meeting Minutes_June 8_15.docx
+              15 File(s)        860,503 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources\SELG\MinutesSELG\2016
+
+06/24/2015  09:07 AM    <DIR>          .
+06/24/2015  09:07 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources\SELG\StudentProfessionalismWorkGroup
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+05/29/2014  10:37 AM            17,179 5_15StudentProfWrkngGrouop_Minutes.docx
+05/29/2014  09:58 AM            17,023 5_2014Student Professionalism Working Group Charge.docx
+               2 File(s)         34,202 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources\SELG\SupvervisorMeeting
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+06/15/2010  12:21 PM            19,705 2010StudentWage&HourChartk.xlsx
+06/16/2011  12:04 PM            29,658 2011_JuneStudentWage&HourChartk.xlsx
+08/08/2013  07:39 AM           530,217 8_13Student Supervisor Meeting Pulse Survey.pdf
+08/08/2013  07:40 AM           485,576 8_13Student Supervisor PPT.pptx
+08/08/2013  07:38 AM            15,844 feedback rcvd from student supv 8.6.2013.docx
+11/09/2011  08:06 AM            40,448 SELG_Handout_SupervisorMeeting_10-20-11.doc
+11/09/2011  08:11 AM            46,080 SELG_Student Supervisor Meeting Minutes10_20_11.doc
+07/08/2010  08:49 AM            35,840 Student Supervisor Meeting Minutes_Final_6-29-10.doc
+               8 File(s)      1,203,368 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources\StudentAd
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+07/23/2014  10:03 AM            56,518 eConnectAADescrption.docx
+07/28/2014  08:41 AM           110,881 eConnectAADescrption.pdf
+               2 File(s)        167,399 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources\Training Advisory Committee
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+11/12/2009  04:22 PM            25,088 Nov.9_minutes.doc
+               1 File(s)         25,088 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources\Training Presentation Archives
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+08/18/2011  01:27 PM           955,792 8-17-11_final_powerpo.pdf
+02/23/2010  04:32 PM           139,015 blog_presentation.pptx
+10/17/2011  09:37 AM         8,285,251 NISOwebinar12october2011PRINT.pdf
+11/07/2011  03:32 PM         2,492,566 nov7_SocialMedia_Doc.pdf
+05/27/2014  09:15 AM         3,022,347 Thinking Digital Handout.pdf.pdf
+               5 File(s)     14,894,971 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources\Training Task Force 2009
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+06/18/2009  05:44 PM            24,576 TTF_Meeting Notes_Final_6-11-09.doc
+07/02/2009  12:05 PM            25,088 TTF_Meeting Notes_Final_6-18-09.doc
+07/02/2009  12:05 PM            26,624 TTF_Meeting Notes_Final_6-25-09.doc
+06/10/2009  09:29 AM            23,552 TTF_Meeting Notes_Final_6-4-09.doc
+08/14/2009  12:07 PM            25,600 TTF_Meeting Notes_Final_7-23-09.doc
+08/14/2009  12:08 PM            25,600 TTF_Meeting Notes_Final_7-30-09.doc
+08/28/2009  04:17 PM            25,600 TTF_Meeting Notes_Final_8-20-09.doc
+08/28/2009  04:17 PM            25,600 TTF_Meeting Notes_Final_8-27-09.doc
+08/14/2009  12:08 PM            25,088 TTF_Meeting Notes_Final_8-6-09.doc
+09/10/2009  03:34 PM            26,624 TTF_Meeting Notes_Final_9-10-09.doc
+09/08/2009  04:26 PM            25,600 TTF_Meeting Notes_Final_9-3-09.doc
+              11 File(s)        279,552 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources\TravelForms
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+05/01/2012  08:16 AM           140,660 Training_Travel_Request_Form5-1-12E.pdf
+               1 File(s)        140,660 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\HumanResources\Volunteer
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+08/07/2009  08:00 AM            26,624 2010_Volunteer_Parent-Guardian Release.doc
+11/19/2014  09:51 AM            38,568 HR-Forms-VolunteerAgreement.pdf
+06/30/2009  08:29 AM            32,890 NSHEVOLUNTEERPOLICY.pdf
+11/19/2014  10:08 AM           109,356 PersonalDataForm6_10.pdf
+10/19/2012  07:02 AM           368,890 volunteer_description2012.pdf
+               5 File(s)        576,328 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\LibraryPhoneNumbers
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+02/04/2016  04:57 PM            50,176 library_roster.xls
+02/04/2014  02:32 PM            35,328 library_rosterbyDept.xls
+               2 File(s)         85,504 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\Libs_publications
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+05/20/2013  01:46 PM         3,668,364 Guide 2013.pdf
+05/16/2013  04:50 PM           421,538 Liaisons 2013.pdf
+               2 File(s)      4,089,902 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\policies_procedures_guidelines
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+07/17/2006  09:45 AM            22,016 Acceptance of Gifts for Lied Library (Policy).doc
+02/16/2011  11:23 AM            25,548 ann_review_ten_track_fac_progress_toward_tenure_procedure.docx
+11/20/2013  09:45 AM            52,581 boilerplate_facdiversity_forwiki.docx
+06/06/2014  01:56 PM            37,622 boilerplate_facdiversity_forwiki2.docx
+12/08/2015  01:49 PM            26,641 boilerplate_facdiversity_forwiki3_draft.docx
+07/17/2006  09:45 AM            20,480 Bulletin Board Policy for Lied Library (Policy).doc
+07/17/2006  09:45 AM            26,624 Circulation Policies (Policy).doc
+08/06/2013  07:28 AM           354,119 Classified_Staff_Professional_Development.docx
+07/03/2014  02:17 PM           240,917 COI_handout.docx
+10/01/2014  02:18 PM           242,951 COI_handout2.docx
+03/28/2014  09:33 AM            18,351 collection_drive_policy.docx
+03/28/2014  09:32 AM            16,399 collection_drive_policy2.docx
+08/18/2008  12:37 PM           260,313 computer_use_fall_2008.pdf
+07/17/2006  09:45 AM            26,112 Course Reserves Policy (Policy).doc
+07/17/2006  09:45 AM            19,968 Disposition of Limited Retention Serials (Policy).doc
+06/11/2008  12:15 PM            35,328 draftjournalspolicy4.doc
+04/20/2007  09:07 AM        30,065,306 Emergency & Safety Plan Appendix 09 13 05.pdf
+04/20/2007  09:07 AM            66,399 Emergency and Safety Plan.pdf
+02/26/2008  03:09 PM         4,951,040 Emergency Plan 20080215 final.doc
+02/11/2016  01:43 PM    <DIR>          Events
+07/17/2006  09:45 AM            36,352 Expectations for User and Visitor Conduct (Guideline).doc
+08/18/2008  12:35 PM           258,213 Expectations_User_Conduct.pdf
+07/17/2006  09:45 AM            71,168 Faculty Workload Policy.doc
+11/20/2013  11:22 AM            18,467 fac_diversity_searchprocess.docx
+08/24/2015  03:30 PM            21,017 fac_diversity_searchprocess10.docx
+11/02/2015  08:33 AM            21,131 fac_diversity_searchprocess11.docx
+08/21/2014  01:53 PM            18,939 fac_diversity_searchprocess2.docx
+09/30/2014  09:39 AM            19,480 fac_diversity_searchprocess3.docx
+10/02/2014  08:13 AM            19,724 fac_diversity_searchprocess4.docx
+10/02/2014  12:38 PM            19,672 fac_diversity_searchprocess5.docx
+10/28/2014  09:48 AM            19,758 fac_diversity_searchprocess6.docx
+12/03/2014  02:39 PM            20,439 fac_diversity_searchprocess7.docx
+12/12/2014  09:04 AM            20,431 fac_diversity_searchprocess8.docx
+02/20/2015  04:41 PM            20,911 fac_diversity_searchprocess9.docx
+09/20/2011  01:04 PM            23,552 Food and Drink Policy (Policy).doc
+09/20/2011  01:02 PM            28,160 FoodandDrinkGuidelines.doc
+03/12/2015  09:18 AM            23,463 foodanddrinkguidelines2015.docx
+02/11/2016  01:43 PM    <DIR>          Gifts
+07/28/2007  03:14 PM             1,399 index.php
+07/17/2006  09:45 AM            20,992 Lied Facility Use Policy (Policy).doc
+07/17/2006  09:45 AM            27,648 Operating Principles (Principle).doc
+07/17/2006  09:45 AM            21,504 Pam Binding (Policy).doc
+07/17/2006  09:45 AM            19,968 Policies of University Libraries (Policy).doc
+04/29/2014  03:15 PM            27,823 policylibgrpsFINAL.docx
+06/25/2015  08:39 AM            19,082 policy_libfac_workathome.docx
+07/17/2006  09:45 AM            23,552 Position Descriptions (Policy).doc
+02/05/2016  02:39 PM            28,160 Position Descriptions (Policy)2.doc
+07/17/2006  09:45 AM            71,680 Records Retension Schedule.doc
+11/04/2014  10:21 AM            32,935 Room_Reservation_Policy2.docx
+07/17/2006  09:45 AM           214,016 Search Committee Guidelines  Rev. August 2004.doc
+12/16/2013  12:00 PM           153,600 Search Committee Guidelines December 2010.doc
+07/17/2006  09:45 AM            22,016 Site Visit Considerations.doc
+07/17/2006  09:45 AM            54,272 Staff Development (Guideline).doc
+07/17/2006  09:45 AM            24,576 University Archives Policy (Policy).doc
+07/17/2006  09:45 AM            25,088 User visitor conduct Policy (Policy).doc
+07/17/2006  09:45 AM            24,576 Website_Policy.doc
+              54 File(s)     37,982,479 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\policies_procedures_guidelines\Events
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+08/25/2015  10:12 AM            36,813 ESC_charge.docx
+08/25/2015  09:43 AM            35,682 Events_policy.docx
+08/25/2015  10:13 AM           358,148 Meeting_Room_Policy_Exceptions.docx
+08/25/2015  10:16 AM            39,368 Point_Person_checklist_academic_events.docx
+08/25/2015  10:15 AM            37,519 Point_Person_checklist_external_events.docx
+08/25/2015  10:14 AM            38,633 Point_Person_checklist_professional_events.docx
+08/25/2015  10:16 AM            37,075 Point_Person_checklist_staff_events.docx
+07/22/2013  02:14 PM            32,829 Room_Reservation_Policy.docx
+               8 File(s)        616,067 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\policies_procedures_guidelines\Gifts
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+07/01/2015  09:42 AM           196,477 Deed_of_Gift_TEMPLATE_GC_over100K.docx
+06/18/2015  08:50 AM           195,575 Deed_of_Gift_TEMPLATE_GC_under100K.docx
+06/18/2015  02:41 PM            74,270 Deed_of_Gift_TEMPLATE_GC_under100K.pdf
+07/01/2015  09:43 AM           196,154 Deed_of_Gift_TEMPLATE_SpecColl_over100K.docx
+06/18/2015  08:52 AM           195,495 Deed_of_Gift_TEMPLATE_SpecColl_under100K.docx
+06/04/2015  09:45 AM           346,420 GiftinKindCorrectedLibform.pdf
+06/05/2015  09:40 AM           352,974 publiclibsgiftpolicy.docx
+06/04/2015  09:44 AM            14,127 SpecCollGiftValuations.docx
+06/04/2015  09:43 AM           198,004 TempCustodyReceipt.docx
+06/04/2015  09:53 AM            29,418 UNLV_Libraries_Gift_Policy_and_Procedures_2014rev.docx
+06/25/2015  10:16 AM           361,142 UNLV_Libraries_Gift_Policy_and_Procedures_2015.docx
+06/04/2015  09:41 AM            22,597 UNLV_Libs_gift_memo_revdraft.docx
+06/18/2015  08:48 AM           358,041 UNLV_Lib_DoG_Procedures_SC.docx
+08/03/2015  09:26 AM            66,866 UNLV_Lib_DoG_Procedures_SC.pdf
+07/01/2015  10:18 AM           353,066 UNLV_Lib_DoG_Procedure_GC.docx
+07/01/2015  10:18 AM            91,690 UNLV_Lib_DoG_Procedure_GC.pdf
+              16 File(s)      3,052,316 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\P_&_T
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+08/31/2012  12:38 PM           255,488 2012_PT_application_form.doc
+07/15/2013  04:48 PM            21,471 2013_Timeline_for_P&T.docx
+07/18/2013  03:06 PM            21,749 2013_Timeline_for_P&Tdraftrev.docx
+07/18/2013  03:39 PM            21,834 2013_Timeline_for_P&T_rev.docx
+04/18/2014  03:15 PM            21,546 2014_Timeline_for_P&T.docx
+07/29/2015  12:52 PM            26,018 2015PTtimeline.pdf
+05/28/2013  03:34 PM            32,588 External_Review_Letter_Promotion.docx
+05/28/2013  03:37 PM            32,125 External_Review_Letter_Tenure_and_Promotion.docx
+01/25/2016  05:08 PM            38,912 facultyroster-hiremidtenuretenuredates.xls
+07/18/2013  01:41 PM            73,167 Libraries_2013_PT_flowchart.docx
+04/18/2014  02:13 PM            70,046 Libraries_PT_flowchart.docx
+04/30/2014  03:42 PM            25,088 OutsideLetterswithcomments.doc
+06/18/2014  02:32 PM            21,149 P_&_T_Generaltimeline.docx
+04/30/2014  01:57 PM            23,043 P_&_T_Generaltimelinerevdraftfs.docx
+              14 File(s)        684,224 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\SearchCommittee
+
+02/12/2016  11:25 AM    <DIR>          .
+02/12/2016  11:25 AM    <DIR>          ..
+08/19/2015  12:15 PM            47,104 Guidelines for Hiring with Tenure.doc
+10/27/2015  12:44 PM           136,192 HR-Forms-VacancyAnnouncement 10.2015.doc
+02/26/2014  08:41 AM           155,136 Search Committee Guidelines February 2014.doc
+10/28/2015  08:02 AM            43,008 University Libraries Recommendation for Closing a Failed Search_2015.doc
+10/28/2015  08:07 AM            48,640 University_Libraries_Recommendation_for_New_Hire_Form_2015.doc
+               5 File(s)        430,080 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\space_planning
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+03/03/2010  02:29 PM        43,925,140 ALA_Learning_Commons_presentation_2010.pptx
+09/12/2013  12:01 PM           204,694 construction_containment_floorplan.pdf
+07/22/2013  12:36 PM         1,190,249 Instruction_Rooms_Furniture_Plans.pdf
+09/11/2013  02:34 PM            21,005 LLBclosure_mtg_08212013.docx
+09/19/2013  07:42 AM            20,623 LLBclosure_mtg_09122013.docx
+10/03/2013  09:46 AM            20,555 LLBclosure_mtg_09242013.docx
+09/18/2013  12:38 PM           136,089 LLBclosure_servicesplan.pdf
+03/03/2010  02:31 PM         1,718,393 Pix_of_Tables_and_dividers.docx
+09/12/2013  07:35 AM            85,954 publicsequence_with_numbers_LGA.pdf
+06/26/2013  02:07 PM         1,457,163 publicspaceslayout.pdf
+03/18/2010  11:18 AM            17,872 Space_Planning_9_March_2010_meeting_notes.docx
+10/12/2009  09:09 AM            23,949 Space_Planning_Oct_07_09_meeting_notes.docx
+09/16/2009  01:42 PM            17,673 Space_Planning_Sept_03_09_meeting_notes.docx
+10/26/2009  10:02 AM            19,700 Space_Planning_Workshop1_Oct_21_2009_meeting_notes.docx
+12/10/2009  02:24 PM            18,483 Space_Planning_Workshop2_Nov_17_2009_meeting_notes.docx
+02/01/2010  01:42 PM            19,954 Space_Planning_Workshop4_Jan_27_2010_meeting_notes.docx
+01/07/2010  09:12 AM            18,727 Space_Planning_Workshop_3_Dec_16_2009_meeting_notes.docx
+              17 File(s)     48,916,223 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\strategic_plans
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+06/29/2007  02:52 PM           125,440 0709_goals_internal_worksheet.xls
+08/18/2010  10:55 AM            93,184 0911_Strategic_Plan_with_eval_framework.xls
+08/03/2010  10:26 AM            53,760 2009-2011_Strategic_Plan_with_Yr_and_Point_Person.xls
+06/24/2010  10:44 AM            17,704 2009_2011_Strategic_Plan_Action_Items_for_Cabinet_Vetting.docx
+11/10/2009  01:50 PM            30,720 2009_2011_Strategic_Plan_Evaluation_Framework_Guidelines.doc
+10/26/2009  04:55 PM           710,489 2009_2011_Strategic_Plan_FINAL.pdf
+08/03/2010  10:34 AM            29,305 2009_2011_Strategic_Plan_with_evals_and_assessments.docx
+07/08/2011  10:07 AM            16,406 2011_2013_Rough_Draft_Strategic_Directions.docx
+03/01/2013  03:54 PM            47,638 2011_2015_Strategic_Plan.docx
+08/06/2014  10:52 AM            83,561 FY1415StrategicPlan.docx
+10/24/2013  07:40 AM            47,374 FY1415_StrategicPlan_draft.docx
+08/04/2015  01:00 PM           378,493 FY1617SPLibs.docx
+08/04/2015  01:02 PM           102,803 FY1617SPLibs.pdf
+07/28/2007  03:14 PM             1,399 index.php
+12/07/2012  05:03 PM           192,959 internal sp1115.pdf
+11/07/2014  11:16 AM            28,130 librarypositionstop10pi.docx
+08/16/2006  02:16 PM             3,462 mission_statement.html
+12/08/2010  02:11 PM            14,194 SP 10-12 actions to be vetted by cabinet.xlsx
+07/17/2006  09:44 AM           121,856 Strategic Plan 2005-2010 Abbreviated.doc
+07/17/2006  09:44 AM           517,632 strategic plan 2005-2010 master.doc
+07/30/2014  09:47 AM           144,449 StrategicPlan.docx
+07/30/2014  09:47 AM           174,702 StrategicPlan.pdf
+10/28/2009  09:04 AM            28,445 Strategicplanver7withUNLV.docx
+08/03/2010  10:28 AM            49,152 Strategic_Plan_2009-2011_with_Yr_and_Point_Person.xls
+10/28/2009  09:22 AM            27,194 Strategic_plan_2009-ver7_abrev.docx
+08/03/2010  10:27 AM            91,648 Strat_Plan_09-11_full_no_USR_highlights.xls
+03/21/2013  02:35 PM            14,585 Strat_Plan_12-15_cabinet_vetting01Mar2013.xlsx
+04/21/2011  07:57 AM            23,552 UNLV_Libraries_Core_Mission.doc
+06/24/2010  10:23 AM            17,020 UNLV_Libs_Strategic_Plan_Guidelines_for_Evaluation_and_Reporting.docx
+07/09/2009  12:42 PM            27,731 VMV-ver7-revised-06162009fs.docx
+02/11/2016  01:43 PM    <DIR>          _notes
+              30 File(s)      3,214,987 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\strategic_plans\_notes
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+08/16/2006  02:16 PM               235 mission_statement.html.mno
+               1 File(s)            235 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\student_employment
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+10/27/2015  12:34 PM           272,157 1_2015_Financial Aid Library Presentation.ppsx
+02/06/2012  04:50 PM           199,444 1_Asst.StudentDevlopmentflyer_QR_2-6-12.docx
+12/11/2013  02:28 PM             9,757 1_Timesheet_DueDates_2014.pdf
+05/09/2011  10:11 AM            44,544 2011SummerWSChart.xls
+10/23/2013  01:41 PM            12,664 2013_Student Time Sheets.xlsx
+03/02/2015  01:51 PM           139,681 2015_Finaid-Application-Summer2015.pdf
+03/02/2015  01:51 PM           119,196 2015_Finaid-WorkStudyIntentEnroll-Fall2015.pdf
+10/21/2010  12:35 PM            42,496 2StudentEmployment Tour Cheat Sheet.doc
+07/26/2006  03:26 PM            46,080 Application Summer-2006.doc
+12/23/2015  01:36 PM                 0 debug.log
+11/12/2014  04:02 PM           360,866 FinAidScholarLibraryPresentation2014.pdf
+02/06/2014  11:39 AM           532,947 Final_Library_Work_Study_Presentation_Fall_2013.pptx
+11/08/2011  10:38 AM           856,064 Financial Aid_FAFSA PPT_2011_12.ppt
+12/06/2010  09:50 AM           704,261 FinancialAid_11_15_10.ppsx
+02/06/2007  04:29 PM             3,349 index.html
+07/28/2007  03:14 PM             1,399 index.php
+08/09/2006  12:07 PM           275,456 libraries_student_employment_handbook.doc
+01/02/2013  10:41 AM           530,883 Library Work Study Presentation 2012.pptx
+02/11/2016  01:43 PM    <DIR>          MODULES
+01/25/2012  10:23 AM            67,587 OrientationChecklist_Student_2012.tds
+08/30/2011  12:48 PM           132,995 OrientationChecklist_Student_9-11.pdf
+09/18/2013  09:44 AM           127,941 OrientationChecklist_Student_9-18-13.pdf
+06/29/2015  02:46 PM           131,839 OrientationChecklist_Student_E_11-29-12.pdf
+02/04/2016  04:01 PM           127,297 OrientationChecklist_Student_E_9-18-13.pdf
+07/29/2013  12:03 PM           226,188 SAP-full.pdf
+07/26/2006  03:26 PM            59,904 Student Employment 101.ppt
+07/26/2006  03:26 PM            32,768 Student Employment Process.doc
+07/26/2006  03:26 PM            22,528 Student Jobs Available! poster.4ppt.ppt
+09/20/2011  12:38 PM           193,024 Student Worker Supervisor Handbook 2006.doc
+02/11/2016  01:43 PM    <DIR>          Student Workers
+07/26/2013  09:23 AM            30,861 StudentAsst_Workshop_Tracker_2013.docx
+09/28/2009  03:55 PM            46,592 StudentWage&HourChartk.xls
+09/24/2013  03:25 PM            28,527 StudentWage&HourChart_2013.xlsx
+07/28/2006  12:34 PM            53,248 student_employment_app_fall_2006.doc
+08/10/2006  12:49 PM           275,456 student_empl_handbook.doc
+09/22/2011  12:29 PM            47,616 student_time_sheet.doc
+03/14/2012  02:19 PM           365,196 Summer2012NoticeofIntent.pdf
+03/14/2012  02:20 PM           399,994 SummerApplication2012.pdf
+03/11/2013  02:39 PM           483,851 SummerApplication2013.pdf
+03/27/2013  09:56 AM           446,178 SummerWorkStudyIntenttoEnrollFall2013.pdf
+01/21/2015  10:46 AM             9,748 Timesheet_DueDates_1-12_2015 (1).pdf
+12/04/2013  04:55 PM             9,760 Timesheet_DueDates_2014.pdf
+12/16/2014  11:12 AM             9,958 Timesheet_DueDates_2015.pdf
+12/14/2015  01:09 PM             9,943 Timesheet_DueDates_2016 (1).pdf
+09/28/2011  08:08 AM            42,496 Tutoring&Writing Center.doc
+10/21/2010  12:33 PM            25,088 YukoTourCheatSheet.doc
+              44 File(s)      7,557,827 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\student_employment\MODULES
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+02/11/2016  01:43 PM    <DIR>          2015Updates
+08/30/2011  02:27 PM            30,720 CustServicePrincipals_2011.doc
+08/30/2011  02:32 PM            49,152 CustServiceSupplement_2011.doc
+08/06/2012  02:47 PM           742,400 module 4_WorkingWithOthers.ppt
+08/06/2012  02:44 PM         1,124,352 Module1_About the Libraries.ppt
+08/06/2012  02:45 PM         1,278,464 Module2_Role of the Student Asst.ppt
+08/06/2012  02:46 PM           502,784 Module3_Policies-Procedure.ppt
+               6 File(s)      3,727,872 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\student_employment\MODULES\2015Updates
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+08/24/2015  07:47 AM         7,517,224 Module 1 2015.ppsx
+07/07/2015  09:27 AM         7,517,427 Module 1 2015.pptx
+08/24/2015  07:48 AM         3,867,288 Module 2 2015.ppsx
+07/07/2015  09:24 AM         4,802,788 Module 2 2015.pptx
+08/24/2015  07:48 AM         1,928,007 Module 3 2015.ppsx
+07/07/2015  07:40 AM         1,927,990 Module 3 2015.pptx
+07/24/2015  01:38 PM           460,856 Module 4 2015.pptx
+08/24/2015  11:59 AM           370,720 Module 4 _2015.pdf
+08/24/2015  11:54 AM           460,852 Module 4 _2015.ppsx
+               9 File(s)     28,853,152 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\student_employment\Student Workers
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+02/11/2016  01:43 PM    <DIR>          2005
+02/11/2016  01:43 PM    <DIR>          2006
+02/11/2016  01:43 PM    <DIR>          2007
+02/11/2016  01:43 PM    <DIR>          2008
+07/28/2007  03:14 PM             1,399 index.php
+05/23/2007  07:38 AM            51,712 student time sheet.doc
+               2 File(s)         53,111 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\student_employment\Student Workers\2005
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+05/23/2007  07:38 AM            45,568 Fall 2005.xls
+07/28/2007  03:14 PM             1,399 index.php
+05/23/2007  07:38 AM            41,984 Summer 2005.xls
+               3 File(s)         88,951 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\student_employment\Student Workers\2006
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+05/23/2007  07:38 AM            22,016 Fall 2006 Student Workers.xls
+05/23/2007  07:38 AM            45,056 Fall 2006.xls
+07/28/2007  03:14 PM             1,399 index.php
+05/23/2007  07:38 AM            44,544 Spring 2006.xls
+05/23/2007  07:38 AM            39,424 Summer 2006.xls
+               5 File(s)        152,439 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\student_employment\Student Workers\2007
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+01/09/2008  03:13 PM            46,592 Fall 2007.xls
+09/07/2007  03:02 PM            49,152 Spring 2007.xls
+10/31/2007  03:19 PM            60,928 Summer2007.xls
+               3 File(s)        156,672 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\student_employment\Student Workers\2008
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+01/09/2008  03:56 PM            45,568 Spring 2008.xls
+               1 File(s)         45,568 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\TempJobPostings
+
+02/12/2016  11:26 AM    <DIR>          .
+02/12/2016  11:26 AM    <DIR>          ..
+04/24/2014  01:34 PM            48,640 Development Specialist_Temporary_Posting_4-15-14.doc
+               1 File(s)         48,640 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\Training_content_for_the_staff_website
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+10/14/2014  01:27 PM            44,752 10-10-14_GetWriting workshop handout.docx
+08/02/2011  10:05 AM           167,936 8-3-11 LLAMA_webinar handout.doc
+02/22/2011  04:22 PM         1,105,957 Academically Adrift Inside Higher Ed Feb2011.ppsx
+02/11/2016  01:43 PM    <DIR>          Group Decision MakingSkills2010
+07/28/2007  03:14 PM             1,399 index.php
+02/11/2016  01:43 PM    <DIR>          Jan_12-Leadership
+02/11/2016  01:43 PM    <DIR>          LLAMA_Webinar_2011
+07/12/2010  07:23 AM            32,768 LSTP Reading Resource List_7-9-10.doc
+02/11/2016  01:43 PM    <DIR>          Media
+02/11/2016  01:43 PM    <DIR>          Orientation
+02/11/2016  01:43 PM    <DIR>          Process_Improvement_June_11
+11/14/2013  08:48 AM         5,079,495 RetainingWomen.pdf
+02/11/2016  01:43 PM    <DIR>          Search_Committee_Support
+02/11/2016  01:43 PM    <DIR>          Windows7_Office2010_pdf
+               6 File(s)      6,432,307 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\Training_content_for_the_staff_website\Group Decision MakingSkills2010
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+05/21/2010  09:39 AM            15,219 11Brainstorm Notes 5_21_10.docx
+05/21/2010  09:39 AM           593,803 2Group Decision Making 5_20_10.pptx
+05/21/2010  09:39 AM           349,581 3Participant Guide.docx
+05/21/2010  09:39 AM            15,913 4HANDOUT Gradients of Agreement.docx
+05/21/2010  09:39 AM            69,191 5HANDOUT Summary of Techniques.docx
+05/21/2010  09:39 AM            14,972 6HANDOUT Two Ways of Looking at the Same Problem.docx
+05/21/2010  09:39 AM            15,686 7HANDOUTFLIPCHART Ground Rules for Meetings.docx
+06/11/2010  01:27 PM            73,033 CONVERGENT ZONE.docx
+05/21/2010  09:39 AM            61,949 ConvergentLARGE.jpg
+06/11/2010  01:30 PM            27,940 DIVERGENT ZONE.docx
+05/21/2010  09:39 AM            45,402 DivergentLARGE.jpg
+06/11/2010  01:31 PM            97,883 GROAN ZONE.docx
+05/21/2010  09:39 AM            86,850 GroanLARGE.jpg
+06/11/2010  12:22 PM            53,248 University Libraries Committee Responsibilities_5-19-10.doc
+              14 File(s)      1,520,670 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\Training_content_for_the_staff_website\Jan_12-Leadership
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+01/10/2012  09:07 AM         3,334,406 01092012_MWsymp_Effective_Leadership_slides.pdf
+01/11/2012  10:24 AM         1,469,440 01102012_MWsymp_Leadership_by_Disruption_slides.ppt
+01/13/2012  10:56 AM           671,157 0111_2012_leadership_middle_managers.pptx
+01/13/2012  11:05 AM         1,846,786 0112_2012_protostar_supernova.pptx
+01/13/2012  02:51 PM        12,255,044 0113_2012_MWsymp_Leading_Change_Slides.pdf
+               5 File(s)     19,576,833 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\Training_content_for_the_staff_website\LLAMA_Webinar_2011
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+07/15/2011  08:29 AM           168,904 7_11_Todaro-LLAMA-Summer-.pdf
+08/18/2011  01:30 PM         3,527,303 8-17-11 webinar fina.ppsx
+08/16/2011  09:51 AM           235,008 8-17-11 webinar handout.doc
+08/04/2011  09:21 AM           955,792 8-3-11_final_powerpo.pdf
+               4 File(s)      4,887,007 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\Training_content_for_the_staff_website\Media
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+04/14/2010  10:33 AM           267,264 audacity-handout.pub
+08/03/2010  02:49 PM           160,768 photoshop-handout.pub
+               2 File(s)        428,032 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\Training_content_for_the_staff_website\Orientation
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+03/22/2007  08:45 AM           707,867 business card order form.pdf
+05/03/2007  11:31 AM           152,219 Computing_Guidelines_April_2007.pdf
+07/28/2007  03:14 PM             1,399 index.php
+03/15/2007  03:50 PM            46,592 Supervisor Orientation Checklist - Classified.doc
+               4 File(s)        908,077 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\Training_content_for_the_staff_website\Process_Improvement_June_11
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+06/17/2011  07:37 AM         3,255,178 Process Improvement_Library.pptx
+06/17/2011  07:38 AM           633,126 Process_Improvement_Handouts.pdf
+               2 File(s)      3,888,304 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\Training_content_for_the_staff_website\Search_Committee_Support
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+07/17/2006  09:44 AM         1,845,248 HR Search User Manual Committee (new).doc
+07/28/2007  03:14 PM             1,399 index.php
+04/23/2007  10:02 AM            68,608 Sample Candidate Agendas.doc
+04/23/2007  10:02 AM            79,360 Sample Interview Questions.doc
+04/23/2007  10:02 AM            28,160 Sample Presentation Topics.doc
+07/17/2006  09:44 AM            72,192 Sample Rejection Letters.doc
+05/10/2007  11:05 AM            31,232 Sample Requests for Reference Information.doc
+04/23/2007  10:02 AM            98,816 Sample Vacancy Announcements.doc
+05/10/2007  12:18 PM           171,520 Search Committee Guidelines May 2007.doc
+10/13/2010  02:48 PM            32,256 University Libraries Recommendation for Closing a Failed Search.doc
+10/13/2010  02:47 PM            34,816 University Libraries Recommendation for New Hire.doc
+05/10/2007  11:06 AM            49,664 Vacancy Announcement Template, Faculty.doc
+              12 File(s)      2,513,271 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\Training_content_for_the_staff_website\Windows7_Office2010_pdf
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+11/02/2011  12:18 PM           403,371 Office 2010 Intro.pdf
+11/02/2011  12:19 PM           314,375 office-quick-reference-2010.pdf
+11/02/2011  12:19 PM           477,483 windows-quick-reference-7.pdf
+               3 File(s)      1,195,229 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\Travel
+
+02/11/2016  01:43 PM    <DIR>          .
+02/11/2016  01:43 PM    <DIR>          ..
+09/09/2014  02:12 PM           127,707 Classified_Training_Travel_Request_Form_6_13Enable.pdf
+09/09/2014  02:06 PM           127,032 Fac-ProTraining_Travel_Request_Form7-13-13Enabled.pdf
+05/28/2014  07:30 AM           102,912 Mileage Log-1.doc
+05/28/2014  07:40 AM           102,912 Mileage.doc
+09/16/2013  12:55 PM           514,616 Vehicle UseForm_CarRental - UNLV Risk Management & Safety.mht
+               5 File(s)        975,179 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\updates
+
+02/11/2016  01:44 PM    <DIR>          .
+02/11/2016  01:44 PM    <DIR>          ..
+07/28/2007  03:14 PM             1,399 index.php
+11/30/2012  02:41 PM            10,164 up.pdf
+01/05/2009  09:27 AM            67,584 update_2009_01_05.doc
+01/08/2009  10:53 AM            69,120 update_2009_01_08.doc
+01/15/2009  11:45 AM            45,056 update_2009_01_15.doc
+01/22/2009  11:36 AM            47,616 update_2009_01_22.doc
+01/29/2009  03:37 PM            47,104 update_2009_01_29.doc
+02/05/2009  01:54 PM            53,248 update_2009_02_05.doc
+02/12/2009  12:32 PM            56,832 update_2009_02_12.doc
+02/19/2009  05:01 PM            53,248 update_2009_02_19.doc
+02/26/2009  04:24 PM            55,808 update_2009_02_26.doc
+03/06/2009  12:31 PM            68,608 update_2009_03_06.doc
+03/12/2009  03:13 PM            68,608 update_2009_03_13.doc
+03/19/2009  02:05 PM            69,632 update_2009_03_20.doc
+03/27/2009  10:01 AM            69,120 update_2009_03_27.doc
+04/02/2009  09:32 AM            67,072 update_2009_04_03.doc
+04/10/2009  09:49 AM            71,680 update_2009_04_10.doc
+04/16/2009  11:53 AM            69,632 update_2009_04_17.doc
+04/23/2009  10:10 AM            70,144 update_2009_04_24.doc
+05/01/2009  09:32 AM            67,584 update_2009_05_01.doc
+05/05/2009  01:38 PM            69,120 update_2009_05_08.doc
+05/14/2009  02:37 PM            68,608 update_2009_05_15.doc
+05/21/2009  03:06 PM            67,072 update_2009_05_22.doc
+05/28/2009  11:59 AM            72,192 update_2009_05_29.doc
+06/04/2009  09:17 AM            71,168 update_2009_06_05.doc
+06/11/2009  12:25 PM            71,168 update_2009_06_12.doc
+06/18/2009  09:23 AM            71,680 update_2009_06_19.doc
+06/25/2009  10:56 AM            70,656 update_2009_06_26.doc
+07/02/2009  01:16 PM            71,168 update_2009_07_03.doc
+07/09/2009  01:58 PM            70,656 update_2009_07_10.doc
+07/16/2009  09:30 AM            70,144 update_2009_07_17.doc
+07/22/2009  10:59 AM            75,264 update_2009_07_24.doc
+08/06/2009  09:50 AM            71,168 update_2009_08_06.doc
+08/13/2009  03:48 PM            71,680 update_2009_08_13.doc
+08/20/2009  09:36 AM            72,704 update_2009_08_20.doc
+08/27/2009  10:51 AM            73,216 update_2009_08_27.doc
+09/03/2009  10:41 AM            74,240 update_2009_09_03.doc
+09/10/2009  01:09 PM            75,776 update_2009_09_10.doc
+09/17/2009  11:34 AM            79,360 update_2009_09_17.doc
+10/01/2009  03:02 PM            74,752 update_2009_10_1.doc
+10/15/2009  10:27 AM            73,216 update_2009_10_15.doc
+10/22/2009  08:56 AM            71,168 update_2009_10_22.doc
+10/29/2009  09:17 AM            71,168 update_2009_10_29.doc
+10/08/2009  09:12 AM            72,192 update_2009_10_8.doc
+11/05/2009  10:13 AM            71,168 update_2009_11_05.doc
+11/12/2009  10:43 AM            73,216 update_2009_11_12.doc
+11/19/2009  11:13 AM            71,680 update_2009_11_19.doc
+11/25/2009  10:02 AM            72,192 update_2009_11_25.doc
+12/03/2009  11:19 AM            72,704 update_2009_12_03.doc
+12/10/2009  02:51 PM            73,216 update_2009_12_10.doc
+12/17/2009  11:06 AM            74,752 update_2009_12_17.doc
+01/07/2010  11:40 AM            75,776 update_2010_01_07.doc
+01/14/2010  10:40 AM            74,752 update_2010_01_14.doc
+01/21/2010  03:59 PM            74,752 update_2010_01_21.doc
+01/28/2010  11:15 AM            74,752 update_2010_01_28.doc
+02/05/2010  11:18 AM            75,264 update_2010_02_04.doc
+02/12/2010  11:36 AM            74,752 update_2010_02_11.doc
+02/18/2010  03:52 PM            76,800 update_2010_02_18.doc
+02/25/2010  03:03 PM            75,776 update_2010_02_25.doc
+03/05/2010  08:37 AM            75,776 update_2010_03_04.doc
+03/12/2010  03:45 PM            75,264 update_2010_03_11.doc
+03/19/2010  09:27 AM            75,264 update_2010_03_18.doc
+03/26/2010  02:19 PM            72,192 update_2010_03_26.doc
+04/01/2010  10:51 AM            74,240 update_2010_04_01.doc
+04/07/2010  01:51 PM            75,264 update_2010_04_07.doc
+04/16/2010  07:44 AM            75,264 update_2010_04_15.doc
+04/22/2010  02:21 PM            75,264 update_2010_04_22.doc
+04/29/2010  09:38 AM            74,240 update_2010_04_29.doc
+05/05/2010  02:53 PM            73,728 update_2010_05_05.doc
+05/14/2010  08:25 AM            73,728 update_2010_05_13.doc
+05/20/2010  01:04 PM            74,752 update_2010_05_20.doc
+05/27/2010  09:11 AM            73,728 update_2010_05_27.doc
+06/03/2010  12:28 PM            74,752 update_2010_06_03.doc
+06/11/2010  08:01 AM            74,240 update_2010_06_10.doc
+06/17/2010  02:41 PM            75,264 update_2010_06_17.doc
+06/24/2010  09:33 AM            74,240 update_2010_06_24.doc
+07/01/2010  09:39 AM            73,216 update_2010_07_01.doc
+07/08/2010  01:35 PM            71,680 update_2010_07_08.doc
+07/15/2010  02:41 PM            73,216 update_2010_07_15.doc
+07/22/2010  08:10 AM            72,192 update_2010_07_22.doc
+07/30/2010  10:33 AM            74,752 update_2010_07_29.doc
+08/05/2010  02:44 PM            76,288 update_2010_08_05.doc
+08/12/2010  02:21 PM            75,264 update_2010_08_12.doc
+08/19/2010  10:07 AM            75,776 update_2010_08_19.doc
+08/30/2010  02:27 PM            75,776 update_2010_08_26.doc
+09/01/2010  01:35 PM            75,264 update_2010_09_02.doc
+09/09/2010  04:28 PM            77,312 update_2010_09_09.doc
+09/17/2010  09:07 AM            75,776 update_2010_09_16.doc
+09/23/2010  01:15 PM            78,336 update_2010_09_23.doc
+09/30/2010  01:58 PM            77,312 update_2010_09_30.doc
+10/07/2010  02:21 PM            76,288 update_2010_10_07.doc
+10/14/2010  01:14 PM            76,800 update_2010_10_14.doc
+10/21/2010  02:05 PM            75,776 update_2010_10_21.doc
+10/28/2010  01:32 PM            75,776 update_2010_10_28.doc
+11/05/2010  03:42 PM            77,312 update_2010_11_05.doc
+11/12/2010  11:39 AM            76,800 update_2010_11_12.doc
+11/19/2010  08:39 AM            73,216 update_2010_11_18.doc
+11/23/2010  02:18 PM            74,752 update_2010_11_23.doc
+12/02/2010  05:11 PM            75,776 update_2010_12_02.doc
+12/13/2010  09:09 AM            75,264 update_2010_12_10.doc
+12/16/2010  11:04 AM            77,312 update_2010_12_16.doc
+01/07/2011  10:36 AM            72,192 update_2011_01_07.doc
+01/13/2011  11:19 AM            72,704 update_2011_01_13.doc
+01/20/2011  11:19 AM            75,776 update_2011_01_20.doc
+02/03/2011  12:14 PM            76,288 update_2011_02_03.doc
+02/14/2011  02:08 PM            76,288 update_2011_02_10.doc
+02/17/2011  11:23 AM            76,288 update_2011_02_17.doc
+02/25/2011  02:24 PM            77,312 update_2011_02_25.doc
+03/04/2011  09:43 AM            76,800 update_2011_03_03.doc
+03/10/2011  03:20 PM            73,728 update_2011_03_10.doc
+03/18/2011  02:01 PM            76,288 update_2011_03_18.doc
+03/24/2011  03:53 PM            76,288 update_2011_03_24.doc
+03/31/2011  03:10 PM            75,264 update_2011_03_31.doc
+04/11/2011  09:45 AM            76,288 update_2011_04_07.doc
+04/14/2011  02:45 PM            75,776 update_2011_04_14.doc
+04/21/2011  10:03 AM            74,240 update_2011_04_21.doc
+04/29/2011  03:40 PM            76,800 update_2011_04_29.doc
+05/05/2011  08:45 AM            77,824 update_2011_05_05.doc
+05/19/2011  09:08 AM            73,728 update_2011_05_19.doc
+05/31/2011  10:14 AM            73,216 update_2011_05_31.doc
+06/02/2011  01:01 PM            73,216 update_2011_06_02.doc
+06/09/2011  08:51 AM            73,216 update_2011_06_09.doc
+06/16/2011  12:44 PM            74,240 update_2011_06_17.doc
+06/23/2011  02:29 PM            73,728 update_2011_06_23.doc
+06/30/2011  10:18 AM            72,704 update_2011_06_30.doc
+07/12/2011  12:47 PM            75,776 update_2011_07_07.doc
+07/14/2011  09:21 AM            74,752 update_2011_07_14.doc
+07/20/2011  10:18 AM            73,728 update_2011_07_20.doc
+07/28/2011  12:55 PM            74,240 update_2011_07_28.doc
+08/04/2011  01:24 PM            74,240 update_2011_08_04.doc
+08/12/2011  03:29 PM            82,944 update_2011_08_11.doc
+09/01/2011  02:53 PM           213,439 update_2011_09_01.pdf
+09/01/2011  01:35 PM            67,584 update_2011_09_01.pdf.doc
+09/08/2011  09:39 AM           313,496 update_2011_09_08.pdf
+09/16/2011  08:53 AM           480,216 update_2011_09_15.pdf
+09/22/2011  02:11 PM           218,408 update_2011_09_22.pdf
+09/29/2011  10:28 AM           224,165 update_2011_09_29.pdf
+10/07/2011  05:04 PM           562,110 update_2011_10_07.pdf
+10/14/2011  10:13 AM           513,860 update_2011_10_14.pdf
+10/21/2011  02:38 PM           224,028 update_2011_10_21.pdf
+10/27/2011  08:54 AM           221,484 update_2011_10_27.pdf
+11/03/2011  10:54 AM           218,815 update_2011_11_03.pdf
+11/10/2011  05:12 PM           430,896 update_2011_11_10.pdf
+11/17/2011  02:50 PM           220,801 update_2011_11_17.pdf
+12/01/2011  10:31 AM           221,518 update_2011_12_01.pdf
+12/09/2011  10:57 AM           160,665 update_2011_12_09.pdf
+12/15/2011  09:35 AM           156,191 update_2011_12_15.pdf
+12/22/2011  10:06 AM           158,031 update_2011_12_22.pdf
+01/05/2012  03:37 PM           112,654 update_2012_01_05.pdf
+01/12/2012  10:30 AM           114,052 update_2012_01_12.pdf
+01/19/2012  03:06 PM           114,467 update_2012_01_19.pdf
+01/26/2012  03:30 PM           114,267 update_2012_01_26.pdf
+02/02/2012  09:48 AM           113,235 update_2012_02_02.pdf
+02/09/2012  02:36 PM           114,023 update_2012_02_09.pdf
+02/16/2012  11:22 AM           112,245 update_2012_02_16.pdf
+02/23/2012  03:36 PM           113,059 update_2012_02_23.pdf
+03/01/2012  01:54 PM           107,695 update_2012_03_01.pdf
+03/08/2012  09:26 AM           103,557 update_2012_03_08.pdf
+03/15/2012  02:25 PM           104,346 update_2012_03_15.pdf
+03/21/2012  05:16 PM           104,227 update_2012_03_21.pdf
+03/29/2012  09:50 AM           100,232 update_2012_03_29.pdf
+04/03/2012  02:18 PM           102,976 update_2012_04_03.pdf
+04/12/2012  01:38 PM            98,870 update_2012_04_12.pdf
+04/20/2012  03:35 PM            97,519 update_2012_04_20.pdf
+04/27/2012  12:04 PM           100,317 update_2012_04_27.pdf
+05/04/2012  01:16 PM            99,339 update_2012_05_04.pdf
+05/10/2012  01:25 PM            98,046 update_2012_05_10.pdf
+05/25/2012  03:01 PM            96,850 update_2012_05_25.pdf
+06/01/2012  02:14 PM            94,663 update_2012_06_01.pdf
+06/08/2012  12:54 PM            98,284 update_2012_06_08.pdf
+06/14/2012  09:57 AM           100,552 update_2012_06_14.pdf
+06/21/2012  12:51 PM            96,543 update_2012_06_21.pdf
+06/29/2012  02:30 PM            96,038 update_2012_06_29.pdf
+07/06/2012  01:05 PM            94,695 update_2012_07_06.pdf
+07/12/2012  08:29 AM           101,956 update_2012_07_12.pdf
+07/27/2012  08:58 AM            98,841 update_2012_07_27.pdf
+08/02/2012  10:53 AM           101,006 update_2012_08_02.pdf
+08/10/2012  03:12 PM           101,497 update_2012_08_10.pdf
+08/17/2012  02:07 PM           173,425 update_2012_08_17.pdf
+08/24/2012  01:59 PM           102,076 update_2012_08_24.pdf
+08/31/2012  09:52 AM           104,762 update_2012_08_31.pdf
+09/06/2012  02:37 PM           107,062 update_2012_09_07.pdf
+09/14/2012  09:08 AM           103,578 update_2012_09_14.pdf
+09/20/2012  01:52 PM           109,006 update_2012_09_20.pdf
+10/04/2012  03:30 PM           105,729 update_2012_10_04.pdf
+10/12/2012  09:25 AM           106,397 update_2012_10_12.pdf
+10/19/2012  10:15 AM           105,139 update_2012_10_19.pdf
+10/25/2012  09:36 AM           107,758 update_2012_10_25.pdf
+11/02/2012  03:48 PM           109,066 update_2012_11_02.pdf
+11/09/2012  02:46 PM           104,759 update_2012_11_09.pdf
+11/15/2012  03:36 PM           111,899 update_2012_11_16.pdf
+11/30/2012  02:52 PM           104,922 update_2012_11_30.pdf
+12/07/2012  02:10 PM           104,872 update_2012_12_07.pdf
+12/13/2012  02:13 PM           101,441 update_2012_12_14.pdf
+12/21/2012  10:53 AM           119,655 update_2012_12_21.pdf
+01/03/2013  04:22 PM           105,870 update_2013_01_04.pdf
+01/11/2013  03:14 PM           107,061 update_2013_01_11.pdf
+01/18/2013  04:28 PM           108,343 update_2013_01_18.pdf
+01/25/2013  10:44 AM           113,868 update_2013_01_25.pdf
+02/08/2013  03:46 PM           108,917 update_2013_02_08.pdf
+02/15/2013  05:19 PM           108,646 update_2013_02_15.pdf
+02/22/2013  03:04 PM           109,126 update_2013_02_22.pdf
+03/01/2013  05:37 PM           103,102 update_2013_03_01.pdf
+03/08/2013  03:24 PM           104,983 update_2013_03_08.pdf
+03/15/2013  09:16 AM           106,900 update_2013_03_15.pdf
+03/22/2013  10:02 AM           102,426 update_2013_03_22.pdf
+03/29/2013  10:47 AM           148,360 update_2013_03_29.pdf
+04/12/2013  02:44 PM           106,501 update_2013_04_12.pdf
+04/19/2013  10:08 AM           103,334 update_2013_04_19.pdf
+04/26/2013  09:22 AM           106,396 update_2013_04_26.pdf
+05/03/2013  02:58 PM           103,957 update_2013_05_03.pdf
+05/10/2013  12:30 PM           101,131 update_2013_05_10.pdf
+05/16/2013  09:01 AM           112,699 update_2013_05_16.pdf
+05/24/2013  08:52 AM           110,187 update_2013_05_24.pdf
+05/31/2013  12:34 PM           108,626 update_2013_05_31.pdf
+06/06/2013  03:44 PM           114,284 update_2013_06_07.pdf
+06/14/2013  10:52 AM           121,767 update_2013_06_14.pdf
+07/05/2013  08:13 AM           110,348 update_2013_07_05.pdf
+07/11/2013  10:08 AM           110,922 update_2013_07_11.pdf
+07/18/2013  12:20 PM           110,864 update_2013_07_18.pdf
+07/25/2013  11:52 AM           111,337 update_2013_07_25.pdf
+08/01/2013  10:19 AM           120,967 update_2013_08_01.pdf
+08/08/2013  01:08 PM           121,209 update_2013_08_09.pdf
+08/15/2013  01:54 PM           119,699 update_2013_08_17.pdf
+08/22/2013  01:56 PM           121,584 update_2013_08_22.pdf
+08/29/2013  08:47 AM           122,904 update_2013_08_29.pdf
+09/05/2013  12:56 PM           123,017 update_2013_09_05.pdf
+09/12/2013  08:20 AM           125,448 update_2013_09_12.pdf
+09/19/2013  09:46 AM           126,162 update_2013_09_19.pdf
+09/25/2013  03:46 PM           126,483 update_2013_09_25.pdf
+10/04/2013  01:25 PM           129,043 update_2013_10_04.pdf
+10/10/2013  04:13 PM           132,641 update_2013_10_10.pdf
+10/24/2013  09:58 AM           133,235 update_2013_10_24.pdf
+11/04/2013  08:36 AM           127,543 update_2013_10_31.pdf
+11/07/2013  11:00 AM           127,604 update_2013_11_07.pdf
+11/14/2013  09:16 AM           126,592 update_2013_11_14.pdf
+11/20/2013  10:02 AM           128,869 update_2013_11_20.pdf
+12/05/2013  10:52 AM           124,917 update_2013_12_05.pdf
+12/11/2013  04:55 PM           123,077 update_2013_12_11.pdf
+12/19/2013  02:07 PM           122,051 update_2013_12_19.pdf
+01/09/2014  11:34 AM           124,267 update_2014_01_10.pdf
+01/24/2014  01:14 PM           125,280 update_2014_01_23.pdf
+01/31/2014  09:15 AM           126,424 update_2014_01_31.pdf
+02/06/2014  10:17 AM           124,053 update_2014_02_07.pdf
+02/13/2014  01:12 PM           125,411 update_2014_02_14.pdf
+02/20/2014  01:48 PM           125,641 update_2014_02_21.pdf
+02/27/2014  02:20 PM           128,958 update_2014_02_28.pdf
+03/07/2014  04:23 PM           124,396 update_2014_03_07.pdf
+03/14/2014  03:16 PM           123,166 update_2014_03_14.pdf
+03/20/2014  03:44 PM           123,959 update_2014_03_21.pdf
+03/28/2014  08:53 AM           126,273 update_2014_03_28.pdf
+04/03/2014  10:38 AM           123,473 update_2014_04_03.pdf
+04/11/2014  08:49 AM           130,812 update_2014_04_11.pdf
+04/17/2014  09:40 AM           130,001 update_2014_04_18.pdf
+04/24/2014  10:15 AM           124,073 update_2014_04_25.pdf
+05/02/2014  12:48 PM           128,826 update_2014_05_02.pdf
+05/23/2014  09:44 AM           118,807 update_2014_05_23.pdf
+05/30/2014  10:24 AM           122,820 update_2014_05_30.pdf
+06/05/2014  11:18 AM           120,610 update_2014_06_06.pdf
+06/20/2014  09:24 AM           120,672 update_2014_06_20.pdf
+06/27/2014  10:37 AM           129,356 update_2014_06_27.pdf
+07/03/2014  02:47 PM           125,333 update_2014_07_03.pdf
+07/25/2014  09:40 AM           123,037 update_2014_07_25.pdf
+08/01/2014  07:51 AM           126,120 update_2014_08_01.pdf
+08/08/2014  03:49 PM           127,051 update_2014_08_08.pdf
+08/15/2014  07:50 AM           120,673 update_2014_08_15.pdf
+08/22/2014  08:29 AM           123,220 update_2014_08_22.pdf
+08/29/2014  09:00 AM           130,893 update_2014_08_29.pdf
+09/04/2014  09:35 AM           133,023 update_2014_09_05.pdf
+09/26/2014  11:03 AM           128,356 update_2014_09_26.pdf
+10/03/2014  04:18 PM           126,111 update_2014_10_03.pdf
+10/10/2014  03:32 PM           124,328 update_2014_10_10.pdf
+10/16/2014  01:42 PM           128,733 update_2014_10_17.pdf
+10/23/2014  09:39 AM           121,622 update_2014_10_24.pdf
+10/30/2014  09:48 AM           124,610 update_2014_10_30.pdf
+11/14/2014  10:14 AM           131,143 update_2014_11_14.pdf
+11/21/2014  11:14 AM           131,625 update_2014_11_21.pdf
+11/07/2014  09:27 AM           123,199 update_2014_11_7.pdf
+12/05/2014  03:21 PM           123,887 update_2014_12_05.pdf
+12/12/2014  12:19 PM           121,376 update_2014_12_12.pdf
+10/16/2015  04:25 PM           149,139 update_2015_10_16.pdf
+10/02/2015  12:41 PM           134,208 update_2015_10_2.pdf
+10/29/2015  10:06 AM           143,238 update_2015_10_29.pdf
+10/09/2015  01:33 PM           132,654 update_2015_10_9.pdf
+11/13/2015  03:32 PM           140,079 update_2015_11_13.pdf
+11/20/2015  10:11 AM           246,557 update_2015_11_20.pdf
+11/25/2015  11:17 AM           249,847 update_2015_11_25.pdf
+11/05/2015  03:45 PM           137,967 update_2015_11_5.pdf
+12/03/2015  04:34 PM           139,297 update_2015_12_04.pdf
+12/11/2015  08:56 AM           140,818 update_2015_12_11.pdf
+12/18/2015  10:50 AM           148,495 update_2015_12_18.pdf
+01/16/2015  09:50 AM           131,575 update_2015_1_16.pdf
+01/23/2015  09:59 AM           129,051 update_2015_1_23.pdf
+01/30/2015  10:58 AM           131,609 update_2015_1_30.pdf
+01/08/2015  10:59 AM           125,986 update_2015_1_9(1).pdf
+01/08/2015  10:10 AM           124,705 update_2015_1_9.pdf
+02/20/2015  10:19 AM           123,807 update_2015_2_20.pdf
+02/27/2015  01:59 PM           130,655 update_2015_2_27.pdf
+03/13/2015  09:09 AM           124,055 update_2015_3_13.pdf
+03/20/2015  10:13 AM           125,181 update_2015_3_20.pdf
+03/27/2015  01:05 PM           125,062 update_2015_3_27.pdf
+03/06/2015  10:50 AM           125,863 update_2015_3_6.pdf
+04/09/2015  02:21 PM           121,441 update_2015_4_10.pdf
+04/17/2015  04:32 PM           120,772 update_2015_4_17.pdf
+04/24/2015  11:31 AM           129,118 update_2015_4_24.pdf
+04/03/2015  02:08 PM           121,701 update_2015_4_3.pdf
+05/15/2015  08:27 AM           119,620 update_2015_5_15.pdf
+05/22/2015  09:12 AM           120,024 update_2015_5_22.pdf
+05/29/2015  08:17 AM           121,095 update_2015_5_29.pdf
+06/11/2015  04:36 PM           119,726 update_2015_6_12.pdf
+06/19/2015  01:23 PM           121,925 update_2015_6_19.pdf
+07/06/2015  02:23 PM           122,179 update_2015_6_26.pdf
+06/05/2015  08:47 AM           121,186 update_2015_6_5.pdf
+07/16/2015  03:47 PM           124,692 update_2015_7_16.pdf
+07/02/2015  11:00 AM           118,162 update_2015_7_2.pdf
+07/09/2015  02:56 PM           120,246 update_2015_7_9.pdf
+07/30/2015  09:43 AM           117,069 update_2015_8_1.pdf
+08/14/2015  10:22 AM           119,454 update_2015_8_14.pdf
+08/21/2015  09:18 AM           118,539 update_2015_8_21.pdf
+08/28/2015  10:59 AM           125,991 update_2015_8_28.pdf
+08/07/2015  12:40 PM           119,376 update_2015_8_7.pdf
+09/11/2015  10:00 AM           126,009 update_2015_9_11.pdf
+09/17/2015  01:04 PM           123,624 update_2015_9_18.pdf
+09/25/2015  12:51 PM           133,451 update_2015_9_25.pdf
+09/03/2015  01:13 PM           122,924 update_2015_9_4.pdf
+01/08/2016  09:17 AM           142,879 update_2016_01_08.pdf
+01/15/2016  10:51 AM           140,989 update_2016_01_15.pdf
+01/22/2016  10:13 AM           145,868 update_2016_01_22.pdf
+01/29/2016  11:30 AM           147,703 update_2016_01_29.pdf
+02/05/2016  10:41 AM           152,001 update_2016_02_05.pdf
+04/03/2008  03:45 PM            54,272 update_apr_03_08.doc
+04/10/2008  12:43 PM            55,296 update_apr_10_08.doc
+04/12/2007  12:34 PM            64,000 update_apr_13_07.doc
+04/17/2008  08:52 AM            54,784 update_apr_17_08.doc
+04/20/2007  11:14 AM            62,976 update_apr_20_07.doc
+04/24/2008  10:48 AM            54,784 update_apr_24_08.doc
+04/26/2007  12:39 PM            61,952 update_apr_26_07.doc
+04/06/2007  07:48 AM            61,440 update_apr_6_07.doc
+08/02/2007  01:46 PM            70,656 update_aug_02_07.doc
+08/10/2007  09:42 AM            69,632 update_aug_10_07.doc
+09/07/2006  10:34 AM            58,880 update_aug_11_06.doc
+08/12/2008  08:36 AM            60,416 update_aug_12_08.doc
+08/20/2008  08:33 AM            67,072 update_aug_14_08.doc
+08/16/2007  10:36 AM            67,584 update_aug_16_07.doc
+09/07/2006  10:34 AM            58,880 update_aug_18_06.doc
+09/07/2006  10:34 AM            62,976 update_aug_1_06.doc
+08/21/2008  01:32 PM            65,536 update_aug_21_08.doc
+08/23/2007  01:01 PM            69,632 update_aug_23_07.doc
+09/07/2006  10:34 AM            59,904 update_aug_24_06.doc
+08/28/2008  02:18 PM            67,072 update_aug_28_08.doc
+08/30/2007  02:07 PM            75,776 update_aug_30_07.doc
+09/07/2006  10:34 AM            57,344 update_aug_4_06.doc
+12/06/2007  11:49 AM            43,008 update_dec_06_07.doc
+01/05/2009  09:26 AM            67,584 update_dec_11_08.doc
+12/13/2007  02:19 PM            44,032 update_dec_13_07.doc
+12/14/2006  10:40 AM            47,616 update_dec_14_06.doc
+12/18/2008  11:28 AM            64,512 update_dec_18_08.doc
+12/20/2007  10:55 AM            43,008 update_dec_20_07.doc
+12/04/2008  01:38 PM            71,168 update_dec_2_08.doc
+12/07/2006  01:16 PM            47,616 update_dec_7_06.doc
+02/01/2008  02:11 PM            53,248 update_feb_01_08.doc
+02/08/2008  10:54 AM            57,856 update_feb_07_08.doc
+02/07/2008  01:55 PM            23,701 update_feb_07_08.doc.docx
+02/14/2008  02:05 PM            56,832 update_feb_14_08.doc
+02/15/2007  10:23 AM            57,856 update_feb_15_07.doc
+02/01/2007  03:21 PM            56,320 update_feb_1_07.doc
+02/21/2008  01:32 PM            55,296 update_feb_21_08.doc
+02/23/2007  10:35 AM            56,832 update_feb_23_07.doc
+02/29/2008  09:34 AM            60,928 update_feb_28_08.doc
+02/08/2007  09:28 AM            56,832 update_feb_8_07.doc
+01/03/2008  11:08 AM            48,128 update_jan_03_08.docx.doc
+01/11/2008  01:55 PM            49,152 update_jan_10_08.docx.doc
+01/11/2007  09:06 AM            53,248 update_jan_11_07.doc
+01/17/2008  03:35 PM            47,616 update_jan_17_08.doc
+01/18/2007  10:21 AM            56,832 update_jan_18_07.doc
+02/01/2008  02:11 PM            53,248 update_jan_24_08.doc
+01/25/2007  02:06 PM            55,808 update_jan_25_07.doc
+01/04/2007  09:00 AM            52,224 update_jan_4_07.doc
+07/10/2008  08:50 AM            56,832 update_jul_03_08.doc
+07/06/2007  11:15 AM            67,584 update_jul_06_07.doc
+07/10/2008  10:09 AM            56,832 update_jul_10_08.doc
+07/13/2007  10:35 AM            64,000 update_jul_13_07.doc
+07/18/2008  10:39 AM            55,296 update_jul_17_08.doc
+07/19/2007  02:52 PM            69,120 update_jul_19_07.doc
+07/24/2008  09:54 AM            56,320 update_jul_24_08.doc
+07/26/2007  01:21 PM            67,584 update_jul_26_07.doc
+07/31/2008  10:01 AM            59,392 update_jul_31_08.doc
+06/06/2008  12:56 PM            56,320 update_jun_05_08.doc
+06/11/2007  09:28 AM            64,000 update_jun_11_07.doc
+06/12/2008  10:18 AM            61,440 update_jun_12_08.doc
+06/14/2007  08:42 AM            68,096 update_jun_14_07.doc
+06/19/2008  08:49 AM            56,832 update_jun_19_08.doc
+06/21/2007  12:11 PM            64,000 update_jun_21_07.doc
+06/26/2008  03:18 PM            56,320 update_jun_26_08.doc
+06/28/2007  01:13 PM            67,584 update_jun_28_07.doc
+03/06/2008  01:36 PM            53,760 update_mar_06_08.doc
+03/13/2008  10:52 AM            56,832 update_mar_13_08.doc
+03/16/2007  08:44 AM            59,904 update_mar_15_07.doc
+03/01/2007  10:14 AM            61,440 update_mar_1_07.doc
+03/20/2008  11:09 AM            56,320 update_mar_20_08.doc
+03/22/2007  03:59 PM            61,440 update_mar_22_07.doc
+03/27/2008  03:24 PM            55,296 update_mar_27_08.doc
+04/02/2007  01:28 PM            57,856 update_mar_29_07.doc
+03/08/2007  09:29 AM            55,296 update_mar_8_07.doc
+05/01/2008  01:17 PM            58,368 update_may_01_08.doc
+05/08/2008  08:44 AM            53,760 update_may_08_08.doc
+05/10/2007  03:29 PM            67,072 update_may_10_07.doc
+05/14/2008  11:00 AM            58,368 update_may_14_08.doc
+05/22/2008  11:00 AM            53,248 update_may_22_08.doc
+05/29/2008  12:48 PM            59,904 update_may_29_08.doc
+05/03/2007  09:46 AM            58,880 update_may_3_07.doc
+11/01/2007  08:35 AM            42,496 update_nov_01_07.doc
+11/02/2006  09:51 AM            37,376 update_nov_02_06.doc
+11/08/2007  10:35 AM            46,592 update_nov_08_07.doc
+11/09/2006  01:59 PM            45,056 update_nov_09_06.doc
+11/14/2008  01:46 PM            70,144 update_nov_14_08.doc
+11/15/2007  03:55 PM            51,200 update_nov_15_07.doc
+11/17/2006  10:50 AM            49,152 update_nov_17_06.doc
+11/21/2008  10:46 AM            68,608 update_nov_21_08.doc
+11/26/2008  01:54 PM            71,168 update_nov_26_08.doc
+11/29/2007  10:01 AM            44,032 update_nov_29_07.doc
+11/30/2006  09:11 AM            47,104 update_nov_30_06.doc
+10/26/2006  03:01 PM            39,936 Update_oct_ 26_06.doc
+10/02/2008  10:03 AM            66,048 update_oct_02_08.doc
+10/04/2007  01:53 PM            79,360 update_oct_04_07.doc
+10/06/2006  12:09 PM            65,024 update_oct_06_06.doc
+10/09/2008  10:40 AM            67,072 update_oct_09_08.doc
+10/10/2007  08:31 AM            77,312 update_oct_11_07.doc
+10/12/2006  03:08 PM            66,048 update_oct_12_06.doc
+10/16/2008  12:17 PM            68,096 update_oct_16_08.doc
+10/18/2007  02:15 PM            46,080 update_oct_18_07.doc
+10/19/2006  02:25 PM            68,096 update_oct_19_06.doc
+10/23/2008  08:19 AM            67,584 update_oct_23_08.doc
+10/25/2007  10:30 AM            45,568 update_oct_25_07.doc
+10/30/2008  01:55 PM            67,072 update_oct_30_08.doc
+09/15/2006  10:46 AM            64,512 update_sept_15_06.doc
+09/21/2006  02:11 PM            67,584 update_sept_21_06.doc
+09/28/2006  11:28 AM            64,000 update_sept_28_06.doc
+08/04/2006  10:40 AM            66,048 update_sept_6_06.doc
+09/04/2008  12:40 PM            70,144 update_sep_04_08.doc
+09/07/2007  12:08 PM            75,776 update_sep_07_07.doc
+09/12/2008  11:39 AM            68,096 update_sep_12_08.doc
+09/13/2007  10:27 AM            77,312 update_sep_13_07.doc
+09/18/2008  02:09 PM            66,048 update_sep_19_08.doc
+09/20/2007  09:46 AM            77,312 update_sep_20_07.doc
+09/26/2008  10:22 AM            66,048 update_sep_26_08.doc
+09/27/2007  08:46 AM            81,920 update_sep_27_07.doc
+09/26/2008  12:20 PM            13,451 zzz_Fall_08_References re mid-tenure process question.docx
+06/11/2009  08:04 AM               162 ~$date_2009_06_12.doc
+02/11/2010  01:57 PM               162 ~$date_2010_02_04.doc
+02/11/2010  01:59 PM               162 ~$date_2010_02_11.doc
+02/07/2008  10:06 AM               162 ~$date_feb_01_08.doc
+02/07/2008  10:06 AM               162 ~$date_feb_07_08.doc
+             453 File(s)     42,928,131 bytes
+
+ Directory of L:\WikiDocsFeb2016JackKee\Admin Docs Folder\_notes
+
+02/12/2016  11:34 AM    <DIR>          .
+02/12/2016  11:34 AM    <DIR>          ..
+03/23/2007  09:39 AM               242 standing_meetings.html.mno
+               1 File(s)            242 bytes
+
+     Total Files Listed:
+            1789 File(s)  1,503,712,022 bytes
+             374 Dir(s)  67,294,220,288 bytes free
